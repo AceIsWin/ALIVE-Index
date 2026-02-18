@@ -1,0 +1,22 @@
+# Operating system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+
+# Arma 3 development artifacts
+*.rpt
+
+# Log files generated outside of the indexing process
+npm-debug.log*

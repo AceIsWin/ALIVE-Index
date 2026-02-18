@@ -1,0 +1,33 @@
+# Enforce LF line endings for all text files (Unix style)
+* text=auto eol=lf
+
+# SQF / Arma 3 script files
+*.sqf  text eol=lf
+*.fsm  text eol=lf
+*.hpp  text eol=lf
+*.cpp  text eol=lf
+*.ext  text eol=lf
+
+# Documentation and config
+*.md   text eol=lf
+*.txt  text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.gitattributes text eol=lf
+*.gitignore     text eol=lf
+
+# Windows Internet Shortcut files — preserve as-is (CRLF expected on Windows)
+*.url  -text
+
+# Binary files — no line-ending processing
+*.rar  binary
+*.zip  binary
+*.7z   binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.bmp  binary
+*.ico  binary
+*.pbo  binary
