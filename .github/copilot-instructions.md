@@ -16,34 +16,44 @@ This repository contains terrain index files for the **ALiVE (A.L.I.V.E.)** mod 
 ### Directory Layout
 
 ```
-ALIVE-Index/
-├── [terrain-name]/                 # One directory per terrain/map
-│   ├── log.txt                     # Processing log from indexing tool
-│   ├── [terrain-name].url          # URL file (if available)
+ALIVE-Indexes/
+├── README.md                        # Root index — terrain table and usage guide
+├── <terrain_name>/                  # One directory per terrain/map (snake_case)
+│   ├── <terrain_name>.url           # Steam Workshop link (if available)
 │   └── x/
 │       └── alive/
-│           └── addons/             # ALiVE addon modules
+│           └── addons/              # ALiVE addon modules
 │               ├── civ_placement/   # Civilian placement cluster data
 │               ├── mil_placement/   # Military placement cluster data
 │               ├── fnc_strategic/   # Strategic analysis data
 │               ├── fnc_analysis/    # Function analysis data
 │               └── main/            # Main addon data
 ├── scripts/
-│   └── scripts/
-│       └── x/
-│           └── alive/              # Processing/utility scripts
+│   └── x/
+│       └── alive/                   # Processing/utility scripts (FSM + SQF)
 ├── .github/
 │   └── copilot-instructions.md      # This file
 └── .git/                            # Git repository
-
 ```
+
+### Terrain Folder Naming Convention
+
+All terrain folders use **lowercase snake_case**:
+
+| Rule | Correct | Incorrect |
+|------|---------|-----------|
+| All lowercase | `albasrah` | `AlBasrah` |
+| Underscores, no spaces | `tora_bora` | `Tora Bora` |
+| No special characters | `gabreta_csla` | `Gabreta - CSLA` |
+| No `_Index` suffix | `yulakia` | `Yulakia_Index` |
+| Match ARMA 3 world classname | `tem_anizay` | `Anizay TEM` |
 
 ### Terrain Examples
 - `albasrah/` - Al Basrah, Iraq
-- `chernarus/`, `chernarusD/`, `chernarusW/` - Chernarus variants
-- `fallujah/`, `anizay/`, `farabad/` - Additional Middle East terrains
-- `livonia/`, `bornholm/` - European terrains
-- And 50+ additional Arma 3 terrains
+- `tem_chernarus/`, `tem_chernarusd/`, `tem_chernarusw/` - Chernarus variants
+- `fallujah/`, `tem_anizay/`, `farabad/` - Middle East terrains
+- `livonia/`, `bornholm/` - European terrains (some archived)
+- See `README.md` at root for the full terrain list (66 total)
 
 ---
 
@@ -482,5 +492,5 @@ When making changes to terrain index files:
 
 ---
 
-**Last Updated**: 2026-01-31  
-**Applies To**: ALiVE Index Repository v1.0+
+**Last Updated**: 2026-02-19
+**Applies To**: ALiVE Index Repository v1.1+
