@@ -1,0 +1,2136 @@
+>>>>>>>>>>>>>>>>>> Starting Map Index for kunduz_valley on 13/01/2024 12:11:08
+>>>>>>>>>>>>>>>>>> pathToMap: D:\SteamLibrary\steamapps\common\Arma 3\@Kunduz River\addons\kunduz_river.pbo
+>>>>>>>>>>>>>>>>>> root: D:\SteamLibrary\steamapps\common\Arma 3\@ALiVE
+>>>>>>>>>>>>>>>>>> folder: D:\SteamLibrary\steamapps\common\Arma 3\@ALiVE\indexing
+>>>>>>>>>>>>>>>>>> logfile: D:\SteamLibrary\steamapps\common\Arma 3\@ALiVE\indexing\kunduz_valley\log.txt
+>>>>>>>>>>>>>>>>>> indexfile: D:\SteamLibrary\steamapps\common\Arma 3\@ALiVE\indexing\kunduz_valley\x\alive\addons\fnc_strategic\indexes\objects.kunduz_valley.sqf
+>>>>>>>>>>>>>>>>>> parsedIndexfile: D:\SteamLibrary\steamapps\common\Arma 3\@ALiVE\indexing\kunduz_valley\x\alive\addons\fnc_strategic\indexes\parsed.objects.kunduz_valley.sqf
+>>>>>>>>>>>>>>>>>> blacklist file: D:\SteamLibrary\steamapps\common\Arma 3\@ALiVE\alive_object_blacklist.txt
+Executing deWrp: DeWrp.exe -O "D:\SteamLibrary\steamapps\common\Arma 3\@Kunduz River\addons\kunduz_river.pbo"
+deWrp analysis completed
+ ----- Ignoring : 	["a3\structures_f\walls\ancient_wall_8m_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f\blunt\bluntstone_03.p3d",
+ ----- Ignoring : 	["a3\rocks_f\blunt\bluntstone_01.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\shrub\b_leucaena_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\wall\wall_l\wall_l_5m_ep1.p3d",
+ ----- Ignoring : 	["ca\structures_e\wall\wall_l\wall_l_2m5_gate_ep1.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_pyruscommunis_2s.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\shrub\b_cestrum_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\wall\wall_l\wall_l_2m5_corner_ep1.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\bush\b_caragana_arborescens.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\ancient_wall_4m_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_pyruscommunis_3s.p3d",
+ ----- Ignoring : 	["a3\rocks_f\blunt\bluntstone_02.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_ural_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\cncbarrier_stripes_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\cncbarrier_f.p3d",
+ ----- Ignoring : 	["ca\buildings2\misc_concrete\misc_concrete_high.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\tank\tank_rust_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_uaz_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f\blunt\bluntrock_wallh.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\tree\t_albizia_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\tree\t_oleae1s_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\wall\wall_l\wall_l3_pillar_ep1.p3d",
+ ----- Ignoring : 	["ca\structures_e\wall\wall_l\wall_l1_5m_ep1.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\tree\t_millettia_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\tree\t_ficus_small_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\wall\wall_l\wall_l_2m5_ep1.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\crop\b_sugarcane_mature_row_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\mound02_8m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\mound01_8m_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f\blunt\bluntrock_spike.p3d",
+ ----- Ignoring : 	["ca\structures_e\wall\wall_l\wall_l1_2m5_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\garbage\tyres_f.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\civilian\garbage\tyre_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\garbage\tyre_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_brdm2_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_well\misc_well_l_ep1.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_lamp\lamp_small_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\garbage\garbage_square5_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\watersupply\watertank_04_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\garbage\garbagewashingmachine_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\tree\t_ficusb1s_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_oldman\decals\decal_garbage_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\decals\horizontal\concretepanels_01_single_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\garbage\garbage_square3_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\mil\bagfence\bagfence_long_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\mil\bagfence\bagfence_short_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\mil\fortification\razorwire_f.p3d",
+ ----- Ignoring : 	["ca\misc_e\fort_rampart_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_bmp2_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\shrub\b_neriumo2d_tanoa_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\bush\b_neriumo2d_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\bush\b_ficusc2d_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\crop\b_sugarcane_sapling_row_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\tree\t_ficusb2s_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\shrub\b_gardenia_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\shrub\b_calochlaena_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\tree\t_ficus_medium_f.p3d",
+ ----- Ignoring : 	["ca\plants_e\plant\p_fiberplant_ep1.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\commercial\market\woodencrate_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\market\sack_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\market\sacks_heap_f.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\commercial\market\woodencrate_01_stack_x3_f.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\commercial\market\woodencrate_01_stack_x5_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\market\sacks_goods_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_interier\vase_loam_3_ep1.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_interier\vase_loam_2_ep1.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_interier\vase_ep1.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_interier\vase_loam_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\market\cratesshabby_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_interier\boots_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\market\cratesplastic_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\market\woodencart_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_market\covering_hut_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\market\cages_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\market\basket_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\market\crateswooden_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\bush\b_ficusc1s_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\housec\house_c_3_ruins_ep1.p3d",
+ ----- Ignoring : 	["ca\structures_e\wall\wall_l\wall_l1_gate_ep1.p3d",
+ ----- Ignoring : 	["a3\plants_f\bush\b_neriumo2s_white_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\watersupply\watertower_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\items\vessels\watertank_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\watersupply\watertank_03_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\items\vessels\waterbarrel_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\shrub\b_pipermeth_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\bush\b_neriumo2s_f.p3d",
+ ----- Ignoring : 	["ca\misc_e\powgen_big_ruins_ep1.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\shrub\b_cycas_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\tree\t_leucaena_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\crop\b_ginger_20_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f\blunt\bluntrock_monolith.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_skodovka_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\bush\b_arundod2s_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_t72_hull_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_offroad_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\crop\b_sugarcane_sapling_single_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_cables\misc_cable_v_ep1.p3d",
+ ----- Ignoring : 	["ca\structures_e\housec\house_c_12_ruins_ep1.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\crop\b_ginger_9_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f\blunt\bluntstones_erosion.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\garbage\garbagebags_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\tree\t_quercusir2s_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\garbage\garbagepallet_f.p3d",
+ ----- Ignoring : 	["a3\props_f_enoch\military\garbage\garbagebarrel_02_buried_f.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\naval\boats\boat_02_abandoned_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\shrub\b_gardenia_dec_02_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\shrub\b_gardenia_dec_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_car2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\naval\rowboats\rowboat_v3_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\naval\rowboats\rowboat_v2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\naval\rowboats\rowboat_v1_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_construction\misc_concoutlet_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\decals\horizontal\decal_damage_medium2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\garbage\junkpile_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_market\covering_hut_big_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\sidewalk_01_8m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\market\marketshelter_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_market\market_stalls_02_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\sidewalk_01_corner_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_cables\misc_cable_rugs1_ep1.p3d",
+ ----- Ignoring : 	["ca\signs_e\signt\signt_stop.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\lamps\lampshabby_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\tree\t_pritchardia_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\accessories\treebin_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\commercial\market\clothshelter_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\commercial\market\clothshelter_02_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\sportsgrounds\goal_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\wall\wall_l\wall_l2_5m_ep1.p3d",
+ ----- Ignoring : 	["a3\props_f_enoch\military\garbage\garbagebarrel_02_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\lamps\lampdecor_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_truck_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f\blunt\bluntrock_wallv.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_truck_dropside_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f\blunt\bluntrock_apart.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_car3_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_hunter_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epa\items\tools\metalwire_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\items\vessels\canisterplastic_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\powerlines\powerline_02_pole_small_hook_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_offroad2_f.p3d",
+ ----- Ignoring : 	["ca\misc\barbedwire.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\cultural\fortress_01\fortress_01_bricks_v2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\constructions\pallets_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epa\civ\constructions\pallets_stack_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\powerlines\powerline_02_pole_small_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\wall_indcnc_4_d_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\wall_indcnc_4_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\wall\wall_l\wall_fenw2_6_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\roads\concretepanels_02_single_v1_f.p3d",
+ ----- Ignoring : 	["ca\buildings2\misc_cargo\misc_cargo1bo.p3d",
+ ----- Ignoring : 	["ca\buildings2\misc_cargo\misc_cargo1b.p3d",
+ ----- Ignoring : 	["ca\misc_e\misc_cargo2a_ep1.p3d",
+ ----- Ignoring : 	["ca\misc_e\misc_cargo2b_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\shootingpos_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epa\civ\camping\woodentable_large_f.p3d",
+ ----- Ignoring : 	["ca\buildings2\misc_cargo\misc_cargo2e.p3d",
+ ----- Ignoring : 	["ca\misc_e\misc_cargo2c_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f\mil\bagfence\bagfence_corner_f.p3d",
+ ----- Ignoring : 	["ca\misc_e\misc_cargo1e_ep1.p3d",
+ ----- Ignoring : 	["ca\misc_e\misc_cargo1b_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\military\training\target_concrete_support_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\powerlines\powerline_02_pole_small_end_a_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\constructions\concretepipe_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\constructions\pallet_vertical_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\constructions\pallet_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\lamps\lampharbour_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\constructions\workstand_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\constructions\pipes_small_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\constructions\coil_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\constructions\wheelcart_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\constructions\pipes_large_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\lamps\lamphalogen_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\civilian\accessories\gasmetercabinet_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\wall_indcnc_pole_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\wall_indcnc_end_2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\industrial\dieselpowerplant_01\dpp_01_watercooler_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\powerlines\highvoltageend_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\concretemixingplant\cmp_shed_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\reservoirtank\reservoirtank_rust_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\roads\concretepanels_02_single_dmg_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\mil_wiredfence_gate_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f_enoch\r_rock_general3.p3d",
+ ----- Ignoring : 	["a3\plants_f\bush\b_ficusc2s_f.p3d",
+ ----- Ignoring : 	["ca\buildings2\ind_tank\ind_tanksmall2.p3d",
+ ----- Ignoring : 	["ca\misc\fuel_tank_stairs.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\crop\b_ginger_3_f.p3d",
+ ----- Ignoring : 	["ca\misc_e\powgen_big_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_t72_turret_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epb\civ\garbage\garbagecontainer_closed_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\concretekerb_01_2m_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\bush\b_betula_nana.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\naval\piers\pierwooden_02_barrel_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\dirthump_1_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\slums01_8m.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\slums01_pole.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\civilian\garbage\tyre_01_line_x5_f.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\naval\boats\boat_06_wreck_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\uwreck_fishingboat_f.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\naval\boats\boat_01_abandoned_blue_f.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\naval\boats\boat_01_abandoned_red_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\dirthump_3_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_heli\furniture\rattanchair_01_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_interier\water_pipe_ep1.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_juglansregia_2s.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\garbage\garbage_line_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\concretekerb_01_8m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\sidewalk_01_narrow_8m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\concretekerb_02_8m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\concretekerb_01_4m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\gardenpavement_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epb\civ\garbage\garbagecontainer_open_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\obstacle_bridge_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\watersupply\watertank_02_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_bootcamp\civ\sportsgrounds\tyrebarrier_01_black_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\watersupply\watertank_01_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\crop\t_cacao_ripe_f.p3d",
+ ----- Ignoring : 	["ca\plants_e\plant\p_papaver_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f\mil\bagfence\bagfence_round_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\market\stallwater_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\tree\t_oleae2s_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\bush\b_thistle_thorn_green.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_car_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_construction\misc_rubble_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\civilian\accessories\plank_01_8m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\pavements\concretekerb_01_2m_v2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\pavements\concretekerb_01_4m_v2_f.p3d",
+ ----- Ignoring : 	["ca\misc_e\jezek_kov_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\pavements\concretekerb_01_8m_v2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\roads\concretepanels_02_single_v2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\roads\concretepanels_02_four_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\plant\p_reeds_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\treeparts\d_fallentrunk_clear_lc_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\treeparts\d_fallentrunk_branches_lc_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f_exp\cliff\cliff_stone_big_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f_exp\cliff\cliff_stone_medium_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f_enoch\rm_boulder5.p3d",
+ ----- Ignoring : 	["a3\rocks_f_enoch\rm_boulder1.p3d",
+ ----- Ignoring : 	["a3\rocks_f_enoch\rm_boulder4.p3d",
+ ----- Ignoring : 	["a3\rocks_f_enoch\rm_boulder3.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\treeparts\d_fallentrunk_branches_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\bush\bw_setsmall_tubey_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\bush\bw_setbig_brains_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\bush\bw_setbig_corals_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\bush\bw_setbig_tubeg_f.p3d",
+ ----- Ignoring : 	["a3\rocks_f_enoch\rm_boulder2.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\naval\boats\boat_03_abandoned_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\civilian\accessories\bench_05_f.p3d",
+ ----- Ignoring : 	["ca\signs2\signt\sign_fuel_new.p3d",
+ ----- Ignoring : 	["ca\signs2\signt\sign_fuel.p3d",
+ ----- Ignoring : 	["a3\structures_f\households\slum\cargo_house_slum_ruins_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\items\vessels\canisterfuel_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\civilian\accessories\bench_03_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\fuelstation\fuelstation_sign_f.p3d",
+ ----- Ignoring : 	["ca\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d",
+ ----- Ignoring : 	["ca\structures\furniture\kitchen\fridge\fridge.p3d",
+ ----- Ignoring : 	["ca\buildings\furniture\bath.p3d",
+ ----- Ignoring : 	["ca\misc\fuel_tank_big.p3d",
+ ----- Ignoring : 	["a3\structures_f\households\slum\slum_house02_ruins_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\households\slum\slum_house01_ruins_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\households\slum\slum_house03_ruins_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\households\slum\cargo_addon01_v2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\households\slum\cargo_addon02_v1_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\tree\t_poplar2f_dead_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_fagussylvatica_2d.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\civilian\accessories\concretetreeplanter_02_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\factory\factory_conv2_ruins_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\factory\factory_conv1_10_ruins_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_fagussylvatica_3d.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\factory\factory_conv1_main_ruins_f.p3d",
+ ----- Ignoring : 	["ca\misc\bmp2_wrecked.p3d",
+ ----- Ignoring : 	["ca\plants2\bush\b_betulahumilis.p3d",
+ ----- Ignoring : 	["ca\plants2\tree\t_betula2w.p3d",
+ ----- Ignoring : 	["ca\plants2\bush\b_corylus.p3d",
+ ----- Ignoring : 	["ca\plants2\bush\b_craet1.p3d",
+ ----- Ignoring : 	["ca\plants2\bush\b_craet2.p3d",
+ ----- Ignoring : 	["ca\plants_pmc\bush\b_elderberry2s_pmc.p3d",
+ ----- Ignoring : 	["ca\plants2\bush\b_prunus.p3d",
+ ----- Ignoring : 	["ca\plants\krovi2.p3d",
+ ----- Ignoring : 	["ca\plants2\bush\b_canina2s.p3d",
+ ----- Ignoring : 	["ca\plants2\bush\b_corylus2s.p3d",
+ ----- Ignoring : 	["ca\plants_e\bush\b_pistacial1s_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f\households\slum\cargo_addon01_v1_f.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\commercial\market\woodencounter_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\windmill\windmill01_ruins_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\households\slum\cargo_addon02_v2_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_market\stand_water_ep1.p3d",
+ ----- Ignoring : 	["a3\plants_f\tree\t_phoenixc1s_f.p3d",
+ ----- Ignoring : 	["ca\structures\ruins\ruin_rubble.p3d",
+ ----- Ignoring : 	["a3\structures_f\households\addons\metal_shed_ruins_f.p3d",
+ ----- Ignoring : 	["ca\plants\clutter_flower_mix.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_construction\misc_concbox_ep1.p3d",
+ ----- Ignoring : 	["ca\buildings\brana02.p3d",
+ ----- Ignoring : 	["ca\misc\fuel_tank_small.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_cardismantled_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_van_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\commercial\market\woodenshelter_01_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_market\sunshade_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f_epa\mil\scrapyard\paperbox_closed_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_market\tires_ep1.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_garbage\misc_garb_square_ep1.p3d",
+ ----- Ignoring : 	["ca\structures\misc\misc_gcontainer_big\misc_gcontainer_big.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_well\misc_well_c_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f\items\vessels\metalbarrel_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\tree\t_broussonetiap1s_f.p3d",
+ ----- Ignoring : 	["ca\plants\les_fikovnik2.p3d",
+ ----- Ignoring : 	["ca\plants\str_fikovnik_ker.p3d",
+ ----- Ignoring : 	["ca\plants2\plant\p_helianthus.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\shrub\b_colored_yellow_f.p3d",
+ ----- Ignoring : 	["ca\plants_e2\tree\t_malus1s_summer.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\civilian\garbage\garbageheap_01_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_market\stand_small_ep1.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_market\stand_meat_ep1.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_market\bags_ep1.p3d",
+ ----- Ignoring : 	["ca\misc\jeept.p3d",
+ ----- Ignoring : 	["ca\misc\jeept_horeznacky.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\tree\t_cocosnucifera3s_tall_f.p3d",
+ ----- Ignoring : 	["ca\plants\palm_04.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\tree\t_cocosnucifera2s_small_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\tree\t_cocosnucifera3s_bend_f.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\civilian\garbage\garbageheap_02_f.p3d",
+ ----- Ignoring : 	["ca\misc\barels.p3d",
+ ----- Ignoring : 	["ca\misc\barel1.p3d",
+ ----- Ignoring : 	["a3\structures_f\items\vessels\barrelwater_f.p3d",
+ ----- Ignoring : 	["ca\misc\drevena_bedna.p3d",
+ ----- Ignoring : 	["a3\structures_f\items\vessels\barreltrash_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\items\vessels\barrelsand_f.p3d",
+ ----- Ignoring : 	["ca\misc\barel4.p3d",
+ ----- Ignoring : 	["ca\misc\barels3.p3d",
+ ----- Ignoring : 	["ca\plants_e\tree\t_ficusb2s_ep1.p3d",
+ ----- Ignoring : 	["ca\misc\uaz_wrecked.p3d",
+ ----- Ignoring : 	["ca\buildings\misc\plot_ohrada.p3d",
+ ----- Ignoring : 	["ca\buildings\misc\plot_ohrada_zlomena.p3d",
+ ----- Ignoring : 	["ca\buildings\misc\plot_ohrada_pruchozi.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\tree\t_millettia_plantation_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\mil\flags\mast_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\bush\b_prunusspinosa_2s.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_argo\bushes\b_opuntiaficusindica3s_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\mil\bagfence\bagfence_end_f.p3d",
+ ----- Ignoring : 	["a3\plants_f\bush\b_arundod3s_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\obstacle_climb_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_fagussylvatica_1fe.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_fagussylvatica_1s.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\concretekerb_02_2m_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\tree\t_juglansregia_3s.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_construction\misc_concpipeline_ep1.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\shrub\b_rhizophora_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\civilian\accessories\drytoilet_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\constructions\woodenbox_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_enoch\crop\b_corn_row_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\decals\horizontal\dirt_road_rocks_02_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_interier\blankets_ep1.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_interier\carpet_2_ep1.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_interier\pillow_ep1.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_interier\carpet_ep1.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_interier\chest_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\decals\horizontal\dirt_road_rocks_04_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\naval\piers\pierwooden_02_ladder_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\civilian\accessories\plank_01_4m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_heli\civ\garbage\wheeliebin_01_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\crop\t_banana_slim_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\crop\t_banana_wild_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\crop\t_banana_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\treeparts\d_fallenbranch_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\treeparts\d_fallentrunk_roots_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\treeparts\d_fallentrunk_clear_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\rampart_f.p3d",
+ ----- Ignoring : 	["ca\misc\datsun01t.p3d",
+ ----- Ignoring : 	["ca\misc\barel3.p3d",
+ ----- Ignoring : 	["ca\signs_e\signt\signt_speedlimit80_d.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_interier\wicker_basket_ep1.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_interier\sack_ep1.p3d",
+ ----- Ignoring : 	["a3\signs_f\signt\vergepost_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_hmmwv_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\wired_fence_4md_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\wired_fence_8m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\wired_fence_8md_f.p3d",
+ ----- Ignoring : 	["ca\signs_e\signt\signt_speedlimit80.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_market\carpet_rack_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\pavements\pavement_wide_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\gardenpavement_02_f.p3d",
+ ----- Ignoring : 	["ca\signs2\signt\sign_priority_new.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\pavements\pavement_wide_corner_f.p3d",
+ ----- Ignoring : 	["ca\buildings\furniture\toilet_b.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\sportsgrounds\tribune_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\cultural\fortress_01\fortress_01_bricks_v1_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\airport\landmark_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\civilian\sheds\shed_04_f.p3d",
+ ----- Ignoring : 	["ca\structures\furniture\bathroom\toilet_b_02\toilet_b_02.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\concretekerb_02_4m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\accessories\loudspeakers_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\concretekerb_02_1m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\sidewalk_01_4m_f.p3d",
+ ----- Ignoring : 	["ca\misc\mi8_crashed.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\industrial\pipes\indpipe3_big_18ladder_f.p3d",
+ ----- Ignoring : 	["ca\misc\brdm2_wrecked.p3d",
+ ----- Ignoring : 	["dbe1\models_dbe1\zakladna\vodni_vez.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo40_grey_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo40_sand_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo40_military_green_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_grey_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_white_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_military_green_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo40_white_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_sand_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\net_fence_gate_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\camping\pillow_old_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\camping\pillow_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\camping\pillow_grey_f.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_interier\bowl_ep1.p3d",
+ ----- Ignoring : 	["ca\misc_e\camonet_nato_var1_ep1.p3d",
+ ----- Ignoring : 	["a3\structures_f\training\dirthump_2_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_slammer_hull_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\wrecks\wreck_slammer_turret_f.p3d",
+ ----- Ignoring : 	["ca\structures\furniture\bathroom\sink\sink.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\sidewalk_02_narrow_8m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\infrastructure\pavements\sidewalk_02_corner_f.p3d",
+ ----- Ignoring : 	["ca\structures\furniture\eletrical_appliances\vending_machine\vending_machine.p3d",
+ ----- Ignoring : 	["a3\props_f_orange\humanitarian\supplies\plasticbucket_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epb\items\vessels\barrelempty_grey_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epb\items\vessels\barrelwater_grey_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epb\items\vessels\barreltrash_grey_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epa\civ\camping\woodentable_small_f.p3d",
+ ----- Ignoring : 	["a3\vegetation_f_exp\shrub\b_ficusc2d_tanoa_f.p3d",
+ ----- Ignoring : 	["a3\props_f_exp\naval\boats\boat_04_wreck_f.p3d",
+ ----- Ignoring : 	["ca\signs2\signt\sign_serpentine_right.p3d",
+ ----- Ignoring : 	["ca\signs2\signt\sign_widthlimit.p3d",
+ ----- Ignoring : 	["a3\structures_f_epb\naval\fishing\fishinggear_02_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_epb\naval\fishing\crabcages_f.p3d",
+ ----- Ignoring : 	["ca\signs2\signt\sign_flyawaygrit.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\pavements\concretepavement_01_narrow_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_enoch\infrastructure\pavements\concretepavement_01_narrow_corner_f.p3d",
+ ----- Ignoring : 	["ca\signs2\signt\sign_noovertaking.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_yellow_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_light_blue_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_light_green_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\walls\net_fenced_8m_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_orange_f.p3d",
+ ----- Ignoring : 	["ca\signs2\signt\sign_tractorprohibited.p3d",
+ ----- Ignoring : 	["ca\buildings\brana02nodoor.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo20_cyan_f.p3d",
+ ----- Ignoring : 	["ca\signs2\signt\sign_priority.p3d",
+ ----- Ignoring : 	["a3\signs_f\signt\signt_speedlimit30.p3d",
+ ----- Ignoring : 	["ca\signs2\signt\sign_blindway_new.p3d",
+ ----- Ignoring : 	["ca\signs2\signt\sign_speed50.p3d",
+ ----- Ignoring : 	["ca\misc_e\misc_cargomarket1a_ep1.p3d",
+ ----- Ignoring : 	["ca\signs_e\signm\signm_milarea_d.p3d",
+ ----- Ignoring : 	["a3\structures_f_heli\items\electronics\fridge_01_f.p3d",
+ ----- Ignoring : 	["ca\buildings\furniture\ammobednax.p3d",
+ ----- Ignoring : 	["ca\misc_e\misc_cargo1eo_ep1.p3d",
+ ----- Ignoring : 	["ca\structures_e\misc\misc_market\market_shelter_ep1.p3d",
+ ----- Ignoring : 	["ca\signs2\signt\sign_uphill.p3d",
+ ----- Ignoring : 	["ca\signs2\signt\sign_fallingstones_new.p3d",
+ ----- Ignoring : 	["ca\signs2\signt\sign_badroadside.p3d",
+ ----- Ignoring : 	["a3\structures_f_epc\dominants\ghosthotel\gh_stairs_f.p3d",
+ ----- Ignoring : 	["a3\structures_f_exp\industrial\materials\cinderblocks_01_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo40_brick_red_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo40_light_blue_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\civ\accessories\water_source_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo40_cyan_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo40_blue_f.p3d",
+ ----- Ignoring : 	["a3\structures_f\ind\cargo\cargo40_orange_f.p3d",
+
+List of objects remaining:
+	["ca\structures_e\housel\house_l_1_ep1.p3d",
+	["a3\structures_f_exp\walls\slum\slumwall_01_s_4m_f.p3d",
+	["a3\structures_f_exp\walls\slum\slumwall_01_s_2m_f.p3d",
+	["ca\structures_e\housel\house_l_3_h_ep1.p3d",
+	["a3\structures_f_argo\walls\military\mil_wallbig_4m_damaged_center_f.p3d",
+	["a3\structures_f_argo\walls\military\mil_wallbig_4m_damaged_left_f.p3d",
+	["a3\structures_f_argo\walls\military\mil_wallbig_debris_f.p3d",
+	["a3\structures_f_enoch\military\barracks\barracks_05_f.p3d",
+	["a3\structures_f_argo\walls\military\mil_wallbig_4m_damaged_right_f.p3d",
+	["a3\structures_f_exp\commercial\market\metalshelter_01_ruins_f.p3d",
+	["a3\structures_f_exp\commercial\market\metalshelter_02_ruins_f.p3d",
+	["a3\structures_f_exp\commercial\market\metalshelter_01_f.p3d",
+	["a3\structures_f_argo\military\domes\domedebris_01_hex_damaged_green_f.p3d",
+	["a3\structures_f_exp\civilian\sheds\shed_03_f.p3d",
+	["a3\structures_f_exp\infrastructure\bridges\bridgewooden_01_f.p3d",
+	["a3\structures_f_exp\infrastructure\bridges\bridgewooden_01_pillar_f.p3d",
+	["ca\structures_e\housel\house_l_4_ep1.p3d",
+	["ca\structures_e\housel\house_l_3_ruins_ep1.p3d",
+	["ca\structures_e\housel\house_l_7_ruins_ep1.p3d",
+	["ca\structures_e\housel\house_l_1_ruins_ep1.p3d",
+	["ca\structures_e\housel\house_l_3_ep1.p3d",
+	["ca\structures_e\housel\house_l_6_ep1.p3d",
+	["ca\structures_e\housel\house_l_7_ep1.p3d",
+	["ca\structures_e\housek\house_k_8_ep1.p3d",
+	["ca\structures_e\housel\house_l_4_ruins_ep1.p3d",
+	["a3\structures_f_enoch\walls\stone\mound03_8m_f.p3d",
+	["ca\structures_e\housel\house_l_6_ruins_ep1.p3d",
+	["a3\structures_f_enoch\walls\stone\mound04_8m_f.p3d",
+	["ca\structures_e\housel\house_l_8_ep1.p3d",
+	["ca\structures_e\housek\house_k_7_ruins_ep1.p3d",
+	["ca\structures_e\housek\house_k_6_ep1.p3d",
+	["ca\structures_e\housek\house_k_3_ep1.p3d",
+	["ca\structures_e\housel\house_l_9_ep1.p3d",
+	["a3\structures_f_enoch\industrial\agriculture\trough_01_f.p3d",
+	["ca\structures_e\misc\misc_market\market_stalls_01_ep1.p3d",
+	["ca\structures_e\housek\house_k_5_ruins_ep1.p3d",
+	["a3\structures_f_argo\military\fortifications\czechhedgehog_01_old_f.p3d",
+	["ca\misc2\hbarrier1.p3d",
+	["ca\misc2\hbarrier3.p3d",
+	["a3\structures_f\mil\bagbunker\bagbunker_small_f.p3d",
+	["ca\misc2\hbarrier5.p3d",
+	["ca\misc_e\camonet_east_ep1.p3d",
+	["ca\misc_e\camonet_east_var1_ep1.p3d",
+	["a3\structures_f\mil\bagbunker\bagbunker_large_f.p3d",
+	["ca\structures_e\housek\house_k_7_ep1.p3d",
+	["ca\structures_e\housek\house_k_5_ep1.p3d",
+	["ca\structures_e\housek\house_k_2_basehide_ep1.p3d",
+	["ca\structures_e\housek\house_k_1_ep1.p3d",
+	["ca\structures_e\housek\house_k_6_ruins_ep1.p3d",
+	["a3\structures_f_enoch\industrial\sheds\shed_ind_old_ruins_f.p3d",
+	["ca\structures_e\ind\ind_shed\ind_shed_02_ruins_ep1.p3d",
+	["ca\structures_e\housel\house_l_8_ruins_ep1.p3d",
+	["ca\structures_e\housek\house_k_3_ruins_ep1.p3d",
+	["ca\structures_e\housek\house_k_1_ruins_ep1.p3d",
+	["a3\structures_f_kart\civ\sportsgrounds\oil_spill.p3d",
+	["a3\structures_f_enoch\wrecks\v3s_wreck_f.p3d",
+	["ca\structures_e\housel\house_l_3_dam_ep1.p3d",
+	["a3\structures_f\naval\piers\pier_small_f.p3d",
+	["ca\structures_e\housec\house_c_4_ep1.p3d",
+	["ca\structures_e\housel\house_l_7_dam_ep1.p3d",
+	["ca\structures_e\housek\terrace_k_1_ep1.p3d",
+	["ca\structures_e\ind\ind_coltan_mine\ind_coltan_main_ruins_ep1.p3d",
+	["a3\structures_f_enoch\decals\horizontal\decal_damage_long_04_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\decal_damage_long_01_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\decal_damage_long_03_f.p3d",
+	["a3\structures_f_argo\military\fortifications\barricade_01_4m_f.p3d",
+	["a3\structures_f_argo\military\fortifications\barricade_01_10m_f.p3d",
+	["ca\structures_e\housec\house_c_1_v2_ep1.p3d",
+	["ca\structures_e\housec\house_c_3_ep1.p3d",
+	["ca\structures_e\housec\house_c_12_ep1.p3d",
+	["ca\structures_e\housec\house_c_1_ep1.p3d",
+	["ca\structures_e\misc\misc_cables\misc_cable_ep1.p3d",
+	["ca\structures_e\housec\house_c_9_ep1.p3d",
+	["ca\structures_e\housec\house_c_10_ep1.p3d",
+	["a3\structures_f_enoch\decals\horizontal\roads_patch_06_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\roads_cracks_03_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\roads_patch_09_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\roads_cracks_01_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\roads_patch_05_f.p3d",
+	["a3\structures_f_enoch\wrecks\powergenerator_wreck_f.p3d",
+	["ca\misc_e\barrack2_ep1.p3d",
+	["a3\structures_f_enoch\military\barracks\guardbox_01_smooth_f.p3d",
+	["a3\structures_f_enoch\military\barracks\guardhouse_02_f.p3d",
+	["ca\structures_e\wall\wall_l\wall_l3_5m_ep1.p3d",
+	["a3\structures_f_enoch\military\barracks\guardtower_02_f.p3d",
+	["ca\structures_e\housek\house_k_8_ruins_ep1.p3d",
+	["a3\structures_f_enoch\decals\horizontal\decal_damage_medium1_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\decal_damage_long_02_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\roads_patch_01_f.p3d",
+	["a3\structures_f_exp\industrial\surfacemine_01\sm_01_shelter_narrow_f.p3d",
+	["a3\structures_f_enoch\wrecks\trailercistern_wreck_f.p3d",
+	["a3\props_f_exp\industrial\heavyequipment\bulldozer_01_wreck_f.p3d",
+	["a3\structures_f_argo\decals\horizontal\roadcrack_01_6x2_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\roads_cracks_02_f.p3d",
+	["a3\structures_f_argo\decals\horizontal\roadcrack_01_4x4_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\roads_cracks_05_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\roads_cracks_04_f.p3d",
+	["a3\structures_f_enoch\industrial\sheds\industrialshed_01_f.p3d",
+	["ca\structures_e\mil\mil_barracks_ep1.p3d",
+	["ca\structures_e\mil\mil_barracks_i_ep1.p3d",
+	["a3\structures_f\ind\transmitter_tower\ttowersmall_2_f.p3d",
+	["ca\structures_e\mil\mil_house_ep1.p3d",
+	["a3\structures_f_enoch\military\training\shootingpos_roof_01_f.p3d",
+	["a3\structures_f_enoch\military\training\target_single_01_f.p3d",
+	["a3\structures_f_enoch\military\training\target_pistol_01_f.p3d",
+	["ca\structures_e\housea\a_mosque_big\a_mosque_big_wall_ep1.p3d",
+	["ca\structures_e\housea\a_mosque_big\a_mosque_big_wall_corner_ep1.p3d",
+	["ca\structures_e\housea\a_mosque_big\a_mosque_big_addon_ep1.p3d",
+	["ca\structures_e\housea\a_mosque_big\a_mosque_big_wall_gate_ep1.p3d",
+	["ca\structures_e\housea\a_minaret_porto\a_minaret_porto_ep1.p3d",
+	["ca\structures_e\housea\a_mosque_big\a_mosque_big_hq_ep1.p3d",
+	["a3\structures_f_exp\industrial\surfacemine_01\sm_01_shelter_wide_f.p3d",
+	["a3\structures_f_exp\walls\tin\tinwall_01_m_4m_v1_f.p3d",
+	["a3\structures_f_enoch\civilian\camps\caravan_01_rust_f.p3d",
+	["ca\structures_e\housec\house_c_5_v3_ep1.p3d",
+	["ca\structures_e\housec\house_c_5_ep1.p3d",
+	["ca\structures_e\housec\house_c_2_ep1.p3d",
+	["a3\structures_f_enoch\industrial\houses\waterstation_01_f.p3d",
+	["ca\structures_e\housea\a_villa\a_villa_ep1.p3d",
+	["a3\structures_f_enoch\walls\pipe\pipefence_04_m_gate_r_f.p3d",
+	["ca\buildings\podesta_5.p3d",
+	["ca\buildings\podesta_10.p3d",
+	["a3\structures_f\households\slum\slum_house03_f.p3d",
+	["a3\structures_f_enoch\walls\pipe\pipefence_04_m_gate_l_f.p3d",
+	["ca\structures_e\housea\a_minaret\a_minaret_ep1.p3d",
+	["ca\structures_e\housea\a_mosque_small\a_mosque_small_1_ep1.p3d",
+	["ca\structures_e\housea\a_mosque_small\a_mosque_small_2_ep1.p3d",
+	["a3\structures_f_enoch\decals\horizontal\dirt_road_damage_long_05_f.p3d",
+	["a3\structures_f_oldman\decals\decal_scorchmark_01_small_f.p3d",
+	["a3\structures_f_enoch\military\training\disturbedsoil_02_decal_f.p3d",
+	["ca\misc_e\fort_artillery_nest_ep1.p3d",
+	["ca\structures_e\ind\ind_coltan_mine\ind_coltan_conv1_10_ruins_ep1.p3d",
+	["ca\buildings\misc\zed_podplaz_desert.p3d",
+	["ca\buildings\misc\zed_desert.p3d",
+	["a3\structures_f_enoch\military\barracks\barracks_03_f.p3d",
+	["a3\structures_f_enoch\military\barracks\barracks_02_f.p3d",
+	["ca\buildings\misc\zed_dira_desert.p3d",
+	["ca\buildings2\ind_tank\ind_tanksmall.p3d",
+	["a3\structures_f_enoch\military\barracks\barracks_04_f.p3d",
+	["a3\props_f_enoch\infrastructure\traffic\roadbarrier_01_f.p3d",
+	["a3\structures_f_enoch\military\barracks\guardbox_01_brown_f.p3d",
+	["a3\structures_f_enoch\walls\net\netfence_03_m_9m_f.p3d",
+	["a3\structures_f_enoch\walls\net\netfence_03_m_3m_d_f.p3d",
+	["a3\structures_f_enoch\walls\net\netfence_03_m_pole_f.p3d",
+	["a3\structures_f_enoch\military\radar\mobileradar_01_generator_f.p3d",
+	["a3\structures_f_enoch\military\radar\mobileradar_01_radar_f.p3d",
+	["a3\structures_f_enoch\military\radar\radar_01_airshaft_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\dirt_road_damage_long_03_f.p3d",
+	["a3\structures_f_enoch\military\radar\radar_01_cooler_f.p3d",
+	["ca\structures_e\mil\mil_controltower_ep1.p3d",
+	["ca\buildings\misc\zed_civil.p3d",
+	["a3\structures_f_exp\civilian\sheds\shed_06_f.p3d",
+	["a3\structures_f_enoch\military\training\target_line_01_f.p3d",
+	["ca\buildings2\misc_cargo\misc_cargo1g.p3d",
+	["a3\structures_f_enoch\industrial\houses\workshop_01_grey_f.p3d",
+	["a3\structures_f_exp\industrial\dieselpowerplant_01\dpp_01_smallfactory_f.p3d",
+	["a3\structures_f\households\slum\cargo_house_slum_f.p3d",
+	["a3\structures_f_enoch\industrial\garages\garagerow_01_small_f.p3d",
+	["a3\structures_f_exp\industrial\dieselpowerplant_01\dpp_01_mainfactory_f.p3d",
+	["a3\structures_f_enoch\industrial\power\powerstation_01_f.p3d",
+	["a3\structures_f_enoch\industrial\sawmills\sawmill_01_illuminati_tower_f.p3d",
+	["a3\structures_f_enoch\industrial\houses\workshop_03_grey_f.p3d",
+	["a3\structures_f_enoch\industrial\dieselpowerplant_01\dp_smalltank_old_f.p3d",
+	["a3\structures_f\ind\solarpowerplant\spp_transformer_f.p3d",
+	["a3\structures_f_exp\walls\tin\tinwall_01_m_4m_v2_f.p3d",
+	["ca\buildings\misc\zed_dira_civil.p3d",
+	["ca\buildings\misc\zed_podplaz_civil.p3d",
+	["ca\misc_e\fortified_nest_small_ep1.p3d",
+	["a3\structures_f_enoch\military\barracks\guardhouse_02_grey_f.p3d",
+	["a3\structures_f_oldman\decals\decal_scorchmark_01_large_f.p3d",
+	["a3\structures_f_enoch\military\barracks\barracks_06_f.p3d",
+	["a3\structures_f\mil\helipads\helipadcivil_f.p3d",
+	["a3\structures_f_heli\items\airport\portablehelipadlight_01_f.p3d",
+	["ca\structures_e\housel\house_l_9_ruins_ep1.p3d",
+	["a3\structures_f_enoch\walls\pipe\pipefence_06_m_gate_l_f.p3d",
+	["a3\structures_f_enoch\walls\pipe\pipefence_06_m_gate_r_f.p3d",
+	["a3\structures_f_enoch\wrecks\mi8_wreck_f.p3d",
+	["ca\misc_e\fortified_nest_big_ep1.p3d",
+	["a3\structures_f_argo\industrial\agriculture\barn_01_brown_ruins_f.p3d",
+	["a3\structures_f_argo\industrial\agriculture\shed_08_brown_ruins_f.p3d",
+	["a3\structures_f_enoch\industrial\agriculture\manurepile_01_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\roads_patch_11_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\roads_patch_07_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\roads_patch_02_f.p3d",
+	["a3\structures_f_exp\walls\stone\stonewall_01_s_d_f.p3d",
+	["a3\structures_f_argo\decals\horizontal\dirtpatch_01_6x8_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\dirt_road_damage_long_02_f.p3d",
+	["a3\structures_f\ind\fuelstation\fuelstation_feed_f.p3d",
+	["a3\structures_f\ind\fuelstation\fuelstation_build_f.p3d",
+	["a3\structures_f\ind\transmitter_tower\tbox_f.p3d",
+	["a3\structures_f_exp\naval\piers\pierwooden_02_16m_f.p3d",
+	["a3\structures_f_enoch\walls\polewalls\polewall_03_5m_v1_f.p3d",
+	["a3\structures_f_enoch\walls\polewalls\polewall_03_5m_v2_f.p3d",
+	["a3\structures_f_enoch\walls\polewalls\polewall_03_end_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\decal_damage_long_05_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\roads_patch_12_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\roads_patch_03_f.p3d",
+	["a3\props_f_orange\furniture\rug_01_f.p3d",
+	["a3\structures_f_heli\furniture\rattantable_01_f.p3d",
+	["a3\props_f_exp\naval\boats\boat_05_wreck_f.p3d",
+	["ca\structures_e\housea\a_mosque_small\a_mosque_small_1_dam_ep1.p3d",
+	["a3\structures_f_enoch\decals\horizontal\dirt_road_damage_long_04_f.p3d",
+	["a3\structures_f_tank\military\fortifications\dragonsteeth_01_1x1_old_f.p3d",
+	["a3\structures_f_exp\infrastructure\watersupply\watertower_01_ruins_f.p3d",
+	["ca\structures_e\housea\a_mosque_small\a_mosque_small_2_dam_ep1.p3d",
+	["ca\buildings\misc\stanek_1.p3d",
+	["ca\buildings\misc\stanek_1b.p3d",
+	["ca\buildings\misc\stanek_1c.p3d",
+	["ca\structures_e\wall\wall_l\wall_l_mosque_1_ep1.p3d",
+	["ca\structures_e\wall\wall_l\wall_l_mosque_2_ep1.p3d",
+	["a3\structures_f_exp\walls\hedges\hedge_01_s_4m_f.p3d",
+	["a3\structures_f_tank\decals\horizontal\dirtpatch_03_f.p3d",
+	["ca\structures_e\housea\a_office01\a_office01_ep1.p3d",
+	["a3\structures_f_exp\civilian\sheds\shed_05_f.p3d",
+	["a3\structures_f_enoch\industrial\houses\workshop_01_f.p3d",
+	["a3\structures_f_enoch\industrial\houses\workshop_02_f.p3d",
+	["a3\structures_f_enoch\industrial\houses\workshop_03_f.p3d",
+	["a3\structures_f_enoch\industrial\houses\workshop_05_f.p3d",
+	["ca\structures_e\housec\house_c_11_ep1.p3d",
+	["ca\structures_e\housec\house_c_5_v1_ep1.p3d",
+	["ca\structures_e\housec\house_c_5_v2_ep1.p3d",
+	["a3\props_f_enoch\industrial\supplies\woodenbox_02_f.p3d",
+	["a3\structures_f_exp\naval\piers\pierwooden_02_30deg_f.p3d",
+	["ca\structures\nav_pier\nav_pier_pneu.p3d",
+	["a3\structures_f_exp\walls\tin\tinwall_01_m_gate_v2_f.p3d",
+	["a3\structures_f\ind\fuelstation\fuelstation_shed_f.p3d",
+	["a3\structures_f\households\slum\slum_house01_f.p3d",
+	["a3\structures_f\households\slum\slum_house02_f.p3d",
+	["ca\buildings2\ind_shed_02\ind_shed_02_main.p3d",
+	["ca\buildings2\ind_shed_02\ind_shed_02_end.p3d",
+	["a3\structures_f_enoch\industrial\farms\strawstack_01_f.p3d",
+	["a3\structures_f_tank\decals\horizontal\dirtpatch_02_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\dirtpatch_05_f.p3d",
+	["a3\structures_f_exp\walls\backalleys\backalley_01_l_gap_f.p3d",
+	["a3\structures_f_enoch\walls\pipe\pipefence_03_m_gate_r_f.p3d",
+	["a3\structures_f_exp\walls\backalleys\backalley_01_l_gate_f.p3d",
+	["a3\structures_f_exp\walls\backalleys\backalley_01_l_1m_f.p3d",
+	["a3\structures_f_enoch\civilian\sheds\shed_11_f.p3d",
+	["ca\buildings\misc\leseni2x.p3d",
+	["ca\structures_e\ind\ind_garage01\ind_garage01_ruins_ep1.p3d",
+	["ca\structures_e\housek\house_k_3_dam_ep1.p3d",
+	["ca\structures\misc\armory\pneu\pneu.p3d",
+	["a3\soft_f_orange\van_02\van_02_rimless_tire_f.p3d",
+	["a3\structures_f_exp\walls\tin\tinwall_02_l_4m_f.p3d",
+	["a3\structures_f_orange\walls\plastic\plasticnetfence_01_long_d_f.p3d",
+	["a3\structures_f_exp\walls\tin\tinwall_02_l_8m_f.p3d",
+	["ca\structures_e\misc\misc_market\kiosk_ep1.p3d",
+	["a3\structures_f_orange\walls\plastic\plasticnetfence_01_short_f.p3d",
+	["a3\structures_f_orange\walls\plastic\plasticnetfence_01_pole_f.p3d",
+	["a3\structures_f_orange\walls\plastic\plasticnetfence_01_short_d_f.p3d",
+	["a3\structures_f_orange\walls\plastic\plasticnetfence_01_long_f.p3d",
+	["ca\buildings\ruins\watertower1_ruins.p3d",
+	["ca\structures_e\misc\shed_m01_ep1.p3d",
+	["ca\buildings\furniture\dkamna_bila.p3d",
+	["ca\buildings\bouda_plech_open.p3d",
+	["ca\structures_e\housek\house_k_5_dam_ep1.p3d",
+	["a3\structures_f_enoch\industrial\houses\workshop_02_grey_f.p3d",
+	["a3\structures_f_argo\decals\horizontal\dirtpatch_01_4x4_f.p3d",
+	["a3\structures_f_enoch\infrastructure\highway\highway_pillar_01_garage_f.p3d",
+	["a3\structures_f_enoch\walls\pipe\pipefence_05_m_gate_r_f.p3d",
+	["a3\structures_f_enoch\walls\pipe\pipefence_05_m_gate_l_f.p3d",
+	["a3\structures_f_argo\military\fortifications\sandbagbarricade_01_half_f.p3d",
+	["a3\structures_f_exp\military\fortifications\bagbunker_01_small_green_f.p3d",
+	["a3\structures_f_enoch\industrial\houses\workshop_05_grey_f.p3d",
+	["a3\structures_f_enoch\military\training\shellcrater_02_debris_f.p3d",
+	["ca\data\particleeffects\craterlong\craterlong.p3d",
+	["ca\structures_e\misc\misc_interier\table_small_ep1.p3d",
+	["ca\structures_e\housea\a_mosque_big\a_mosque_big_minaret_2_ep1.p3d",
+	["a3\structures_f_exp\naval\piers\pierwooden_03_f.p3d",
+	["a3\structures_f_exp\walls\tin\tinwall_01_m_pole_f.p3d",
+	["a3\structures_f_exp\walls\tin\tinwall_01_m_gate_v1_f.p3d",
+	["ca\structures_e\housea\a_citygate1\a_citygate1_ep1.p3d",
+	["ca\wheeled\skodovka_wrecked.p3d",
+	["a3\structures_f\bridges\bridge_01_f.p3d",
+	["ca\structures_e\housea\a_mosque_big\a_mosque_big_minaret_1_ep1.p3d",
+	["a3\structures_f_enoch\walls\pipe\pipefence_03_m_gate_l_f.p3d",
+	["a3\structures_f_enoch\military\domes\domeparts_01_struts_stack_f.p3d",
+	["a3\structures_f_enoch\military\training\target_line_papertargets_01_f.p3d",
+	["a3\structures_f_exp\industrial\sugarcanefactory_01\scf_01_heap_bagasse_f.p3d",
+	["a3\structures_f_enoch\military\barracks\guardtower_01_f.p3d",
+	["a3\structures_f_enoch\industrial\pipes\indpipe3_bigl_l_f.p3d",
+	["a3\structures_f_argo\infrastructure\watersupply\reservoirtank_01_military_f.p3d",
+	["a3\structures_f_enoch\industrial\pipes\indpipe3_big_ground2_f.p3d",
+	["a3\structures_f_enoch\industrial\pipes\indpipe3_bigl_r_f.p3d",
+	["a3\structures_f_enoch\industrial\pipes\indpipe3_big_support_f.p3d",
+	["a3\structures_f_argo\military\fortifications\sandbagbarricade_01_hole_f.p3d",
+	["a3\structures_f_argo\military\fortifications\sandbagbarricade_01_f.p3d",
+	["ca\structures\mil\mil_guardhouse.p3d",
+	["ca\structures_e\mil\mil_hangar_ep1.p3d",
+	["a3\structures_f_enoch\industrial\pipes\indpipe3_big_ground1_f.p3d",
+	["a3\structures_f_enoch\walls\net\netfence_03_m_3m_f.p3d",
+	["a3\structures_f_heli\ind\cargo\cargo10_military_green_f.p3d",
+	["a3\structures_f\ind\transmitter_tower\ttowersmall_1_f.p3d",
+	["ca\structures_e\mil\mil_house_dam_ep1.p3d",
+	["ca\structures_e\misc\misc_interier\teapot_ep1.p3d",
+	["ca\structures_e\housek\house_k_8_dam_ep1.p3d",
+	["ca\structures_e\housel\house_l_6_dam_ep1.p3d",
+	["ca\structures_e\housel\house_l_4_dam_ep1.p3d",
+	["a3\structures_f\bridges\bridge_asphalt_f.p3d",
+	["ca\misc_e\fort_watchtower_ep1.p3d",
+	["a3\props_f_exp\industrial\heavyequipment\excavator_01_wreck_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\dirt_road_damage_long_01_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\roads_patch_04_f.p3d",
+	["a3\structures_f_tank\decals\horizontal\dirtpatch_04_f.p3d",
+	["a3\structures_f_oldman\decals\decal_roadcrack_grass_04_f.p3d",
+	["a3\structures_f_oldman\decals\decal_roadcrack_grass_05_f.p3d",
+	["a3\structures_f_oldman\decals\decal_roadcrack_grass_01_f.p3d",
+	["a3\structures_f_oldman\decals\decal_roadcrack_grass_02_f.p3d",
+	["a3\structures_f_oldman\decals\decal_roadcrack_grass_03_f.p3d",
+	["a3\structures_f_exp\commercial\fuelstation_02\fuelstation_02_workshop_f.p3d",
+	["a3\structures_f_argo\commercial\billboards\billboard_04_blank_f.p3d",
+	["a3\structures_f_exp\civilian\sheds\shed_04_ruins_f.p3d",
+	["a3\structures_f_enoch\walls\brick\brickwall_03_l_gate_f.p3d",
+	["ca\buildings\furniture\hromada_beden_dekorativnix.p3d",
+	["a3\structures_f_enoch\military\training\craterlong_02_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\vehicletrack_01_straight_end_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\vehicletrack_01_straight_v1_f.p3d",
+	["a3\structures_f_oldman\decals\decal_roadedge_dirt_08_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\vehicletrack_01_right_v1_f.p3d",
+	["a3\structures_f_oldman\decals\decal_roadedge_dirt_10_f.p3d",
+	["a3\structures_f_enoch\decals\horizontal\vehicletrack_01_straight_start_f.p3d",
+	["a3\structures_f_heli\ind\cargo\cargo10_brick_red_f.p3d",
+	["a3\structures_f_enoch\industrial\agriculture\feedstorage_01_f.p3d",
+	["a3\structures_f_exp\civilian\sheds\shed_02_f.p3d",
+	["a3\structures_f_argo\military\domes\domedebris_01_struts_small_green_f.p3d",
+	["a3\structures_f_argo\military\domes\domedebris_01_struts_large_green_f.p3d",
+>>>>>>>>>>>>>>>>>> Copying D:\SteamLibrary\steamapps\common\Arma 3\@ALiVE\indexing\kunduz_valley\x\alive\addons\fnc_strategic\indexes\parsed.objects.kunduz_valley.sqf to D:\SteamLibrary\steamapps\common\Arma 3\@ALiVE\indexing\kunduz_valley\x\alive\addons\fnc_strategic\indexes\objects.kunduz_valley.sqf
+Parsing Complete
+No Static data file found.
+Starting Cluster Generation, check in game RPT for more details.
+mil Cluster small number erased: _nodes set [count _nodes, ["427543",[6034.08,6276.74,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["454475",[5965.82,6032.57,5.14984e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["454597",[5967.99,6014.98,4.95911e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["199084",[7471.88,8695.77,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["186525",[7481.5,8846.61,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["34685",[9405.79,3.06604,3.8147e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["32134",[9328.28,407.383,7.62939e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["32107",[9357.45,424.4,-3.8147e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["34536",[9513.39,354.771,-3.8147e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["34537",[9513.91,333.126,-3.8147e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["303917",[6608.91,4703.6,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["303776",[6521.02,4753.25,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["475036",[9256.17,6128.6,3.8147e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["364360",[9436.95,6348.11,6.29425e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["364361",[9440.46,6342.83,-9.91821e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["364418",[9507.64,6325.35,-4.57764e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["50919",[1526.31,8617.49,3.8147e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["50954",[1629.83,8617.65,7.62939e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["50953",[1623.45,8611.42,7.62939e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["59023",[1986.94,9134.19,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["234772",[5470.73,7498.81,1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["427543",[6034.08,6276.74,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["199084",[7471.88,8695.77,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["186525",[7481.5,8846.61,-9.53674e-007]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["34685",[9405.79,3.06604,3.8147e-005]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["303917",[6608.91,4703.6,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["303776",[6521.02,4753.25,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["50919",[1526.31,8617.49,3.8147e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["59023",[1986.94,9134.19,-1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["234772",[5470.73,7498.81,1.90735e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["32134",[9328.28,407.383,7.62939e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["32107",[9357.45,424.4,-3.8147e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["34536",[9513.39,354.771,-3.8147e-006]]];
+mil Cluster small number erased: _nodes set [count _nodes, ["34537",[9513.91,333.126,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["88826",[8514.87,2972.25,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["88818",[8413.35,2963.28,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["88817",[8436.67,2960.97,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["89826",[8420.67,2881.84,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["96546",[8885.72,2452.62,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["96547",[8885.5,2410.93,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["95756",[8556.82,2477,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["10705",[4759.94,3384.47,6.86646e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["7691",[4760.47,3579.2,-6.67572e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["7821",[4827.77,3923.76,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["6282",[4593.14,3949.87,-1.33514e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["6281",[4592.49,3972.53,-4.95911e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["38242",[4707.2,4414.26,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["66546",[7823.77,1932.77,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["250",[3601.92,6731.1,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["150119",[3706.29,6771.42,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["149161",[3894.3,6912.03,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["150993",[4071.01,6816.45,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["144498",[3559.44,7481.17,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["317863",[6839.9,5074.35,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["316460",[6993.94,5179.99,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["308967",[7004.56,5373.89,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["308930",[6986.31,5403.61,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["308533",[6990.06,5456.19,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["308534",[6986.49,5463.21,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["303776",[6521.02,4753.25,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["303917",[6608.91,4703.6,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["318980",[6816.77,4976.25,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["317966",[6832.49,5031.7,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["318069",[6852.16,5010.06,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["318070",[6866.53,4999.06,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["300901",[6439.53,5179.53,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["307611",[6822.15,5580.61,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["461509",[4218.79,4593.07,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["44751",[5004.45,5056.13,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["334087",[7534.54,4264.01,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["334198",[7598.35,4249.69,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["334162",[7617.36,4294.81,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["324413",[6879.75,4537.36,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["130639",[3355.68,9593.54,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["130887",[3458.94,9535.55,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["132089",[3507.91,9578.92,2.09808e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["132000",[3656.31,9667.51,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372087",[3700.29,9712.93,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["132060",[3713.26,9601.67,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378502",[3770.62,9528.88,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378503",[3792.96,9501.03,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379782",[3798.28,9486.31,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379998",[3827.03,9464.79,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379955",[3832.63,9451.84,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379927",[3847.36,9440.09,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["380044",[3843.32,9422.26,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["380122",[3897.79,9430.01,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379368",[3894.42,9487.16,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379354",[3908.01,9506.05,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379350",[3848.35,9529.48,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378501",[3806.78,9534.2,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378347",[3811.01,9553.75,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379095",[3815.3,9577.53,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378759",[3821.88,9607.42,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378760",[3818,9638.71,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378556",[3820.24,9685.75,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378128",[3805.51,9698.12,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378191",[3793.95,9667.98,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378129",[3787.51,9655.15,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372142",[3761.99,9728.09,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372148",[3772.41,9743.84,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372149",[3768.41,9761.25,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372080",[3784.56,9785.94,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["371971",[3767.36,9841.15,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["112264",[3670.6,9812.27,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["112267",[3664.81,9800.73,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["111908",[3657.43,9826.22,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["111903",[3655.55,9835.59,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["111828",[3651.04,9885.37,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["111561",[3627.6,9890.46,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["111552",[3609.33,9887.02,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["111553",[3589.49,9887.32,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["110014",[3479.27,9825.97,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["110244",[3452.21,9804.81,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["110013",[3448.5,9823.43,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["110049",[3438.17,9835.35,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["110048",[3435.15,9849.01,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["111551",[3604.4,9912.94,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["111562",[3580.75,9904.03,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["112164",[3511.28,9727.24,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["112163",[3497.32,9756.21,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["110196",[3361.08,9761.74,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["108724",[3443.55,10014.7,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["108738",[3432.79,10022.7,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["108362",[3370.01,10075,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["108232",[3397.16,10112.3,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["108233",[3363.98,10118.1,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["108577",[3238.7,9938.82,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["108579",[3239.98,9965.25,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["108702",[3296.91,9932.64,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["61103",[4360.92,9267.29,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["153140",[4197.33,9440.55,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["153141",[4212.21,9471.96,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["153211",[4223.1,9470.87,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379651",[4106.43,9508.41,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378610",[3974.78,9674.98,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379247",[3896.93,9592.93,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379248",[3900.82,9552.3,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379094",[3867.81,9584.24,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372147",[3749.59,9746.43,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372143",[3737.28,9734.79,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372085",[3699.42,9753.09,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372086",[3688.46,9753.29,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["112212",[3635.73,9720.12,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["110745",[3688.33,10070.5,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["110384",[3536.42,10139.1,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["106572",[3531.4,10166.1,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["106548",[3515.36,10166.7,-6.10352e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["106584",[3645.33,10185.4,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["110700",[3732.39,10122.9,1.90735e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["107008",[3870.19,10197.5,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["107063",[4006.06,10229.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["371631",[4137.25,10208.5,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["380048",[3831.66,9402.42,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["380084",[3817.02,9405.72,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["380945",[3900.21,9261.09,-2.86102e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["60640",[4272.38,9353.7,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["222506",[5048.91,7663.4,-4.76837e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["222434",[5080.99,7675.38,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["222505",[5116.74,7669.29,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["411466",[5118.82,7889.95,-2.28882e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166941",[5391.01,8194.68,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166802",[5356.67,8176.45,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166803",[5318.57,8181.39,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166746",[5370.44,8270.96,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166333",[5364.23,8284.72,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166262",[5374.95,8382.78,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166151",[5348.53,8367.58,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166000",[5232.64,8382.12,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["165321",[5213.35,8387.97,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["165897",[5179.58,8357.53,7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166118",[5224.13,8330.7,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166105",[5197.33,8284.89,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["165280",[5146.62,8440.1,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["165229",[5134.06,8466.39,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["165313",[5183.54,8441.59,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["398847",[5060.13,8492.49,-5.53131e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164994",[4882.23,8564.16,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164982",[4860.38,8559.17,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["165018",[4851.56,8541.1,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164983",[4839.99,8582.99,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164481",[4810.18,8668.67,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164310",[4820.95,8730.34,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164483",[4826.43,8707.75,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164482",[4838.15,8700.12,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164309",[4865.48,8729.1,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164308",[4853.93,8742.56,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164289",[4835.58,8750.7,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164270",[4827.61,8772.18,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["224731",[4655.84,7460.15,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["222656",[4878.1,7596.16,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["219503",[4623.58,7871.96,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["410437",[4728.5,7887.87,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["223585",[5357.05,7643.87,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["223697",[5445.93,7669.29,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["232765",[5469.58,7673.81,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["232809",[5562.62,7720.39,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["224068",[5449.35,7565.25,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["224266",[5440.86,7540.92,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["224292",[5425.7,7534.74,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["224069",[5415.61,7575.03,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["233116",[5451.23,7515.27,6.67572e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["234772",[5470.73,7498.81,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["401099",[4612.1,8092.86,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["400325",[4628.73,8174.2,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["400323",[4583.67,8173.15,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["401030",[4581.52,8154.25,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["400955",[4525.41,8152.4,-6.67572e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["165420",[4589.27,8375.64,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164055",[4561.05,8391.47,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["163537",[4590.06,8583.42,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["163084",[4649.14,8618.4,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["167079",[4833.03,8088.96,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166982",[4868.5,8121.84,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166942",[5377.42,8210.35,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166801",[5343.66,8199.01,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["249979",[5924.29,6556.85,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["246374",[5989.73,6741.81,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["246694",[5942.38,6719.76,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["248683",[6164.42,6747.43,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["456082",[6449.75,6038.97,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["456102",[6467.15,6044.86,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["455170",[6397.88,6107.84,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["455997",[6443.88,6101.69,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["252731",[6529.92,6297.64,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["173089",[6370.64,8548.55,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172922",[6371.16,8564.67,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172930",[6372.36,8601.65,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["171772",[6362.57,8618.49,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["171613",[6332.06,8619.09,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172865",[6331.15,8599.39,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172863",[6303.63,8591.67,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172885",[6309.22,8580.46,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["171675",[6301.23,8607.25,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172864",[6333.71,8587.32,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["171688",[6291.43,8648.58,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["171025",[6302.98,8731.86,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["173592",[6445.98,8577.81,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["173609",[6432.02,8583.04,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["171733",[6425.16,8617.13,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172369",[6451.12,8624.35,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172370",[6468.31,8629.51,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172354",[6472.7,8648.74,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172344",[6536.89,8670.95,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172343",[6515.56,8669.73,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172244",[6470.14,8673.89,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172353",[6447.93,8657.79,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["173608",[6508.43,8584.63,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["82186",[8706.79,4252.89,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["82187",[8704.51,4252.82,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["485298",[9003.43,5164.02,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["487140",[9107.52,5052.14,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["487102",[9083.58,5073.07,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["487103",[9074.25,5086.76,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["486034",[9056.11,5110,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["486035",[9072.65,5119.99,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["485423",[8986.51,5116.74,-8.7738e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["486654",[9012.76,5072.04,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["487270",[9062.31,5009.98,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["487346",[9132.65,4999.67,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["487576",[9096.63,4960.92,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["529879",[9189.14,4814.11,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["528221",[9490.52,4655.4,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["485766",[9371.21,5259.79,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["480589",[9130.94,5429.03,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["480546",[9081.75,5466.23,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["480455",[9062.46,5520.12,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["527638",[9548.64,5374.46,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["527666",[9687.7,5390.36,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["315600",[8964.83,5395.92,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["485521",[9172.11,5303.55,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["44999",[5120.96,4913.12,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["45242",[5140.01,4950.51,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["44953",[5086.77,4979.73,3.8147e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["79100",[5333.44,5583.57,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["79109",[5381.15,5581,-1.43051e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["79482",[5317.65,5351.32,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["46073",[5480.2,5123,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["287835",[4926.72,5696.46,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["288441",[4914.66,5639.22,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["286633",[4921.49,5947.01,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["286634",[4883.86,5960.34,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["285904",[4859.66,5992.28,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["286723",[4929.08,5876.5,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["286468",[4849.34,5937.88,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["285952",[4921.56,5993.94,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["441954",[8663.23,6203.54,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["441955",[8661.36,6203.51,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["478907",[8867.21,5646.2,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["472225",[8544.97,6023.71,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["439811",[9115.04,6793.15,-6.29425e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["526258",[9480.04,6807.67,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["526458",[9490.74,6782.36,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["445036",[9327.72,6394.24,2.28882e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["315133",[9348,5659.18,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["479879",[9217.21,5688.32,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["365796",[9674.64,5641.16,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["365416",[9522.69,5785.05,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["365121",[9531.99,5938.93,-3.05176e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["479247",[8876.84,5610.21,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["479248",[8852.86,5619.81,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["475902",[8853.84,5886.51,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["474428",[8991,6012.4,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["474613",[8991.1,6012.4,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["474612",[8990.95,6012.35,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["471787",[8536.68,6126.76,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["437758",[8906.9,6857.5,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["438779",[8943.38,6825.51,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["438778",[8935.14,6845.51,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["202771",[7344.18,8310.11,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["202772",[7369.82,8287.06,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["202773",[7409.66,8283.29,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["200706",[7440.1,8553.19,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["197138",[7392.43,8636.63,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["198613",[7414.41,8759.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["196881",[7399.54,8757.42,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["196880",[7322.43,8751.67,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["197804",[7393.6,8527.93,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["198714",[7655.76,8808.29,7.05719e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["198953",[7731.23,8735.3,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["199558",[7749.34,8775.71,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["199557",[7791.91,8778.92,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["207438",[8091.31,8786.36,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["207435",[8111.76,8792.57,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["207606",[8256.57,8809.19,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["191806",[8248.88,9024.33,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["191493",[8185.74,9027.28,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["191491",[8151.63,9034.11,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["191299",[8083.76,9030.3,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["185459",[8060.4,9181.63,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["257621",[7868.09,7623.23,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["257634",[7856.56,7629.96,-7.82013e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["265610",[8072.24,7693.42,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["265637",[8085.65,7676.97,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["264340",[8068.37,7731.06,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["257752",[8011.41,7717.47,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256762",[7953.99,7734.47,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["257719",[7955.23,7715.08,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256557",[7877.89,7731.29,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["255750",[7797.2,7892.74,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["206581",[7713.03,7969.96,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["255749",[7745.29,7935.07,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["254988",[7716.43,7929.53,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["206371",[7505.85,7968.26,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["254630",[7493.24,7930.22,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["254799",[7454.29,7862.19,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["254800",[7450.57,7849.1,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["255368",[7448.23,7771.82,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["254801",[7444.8,7885.06,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["206309",[7470.37,7965.95,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["254751",[7523.89,7897.11,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["254840",[7534.07,7887.26,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["214021",[8081.91,8285.98,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["213937",[8095.33,8379.54,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["210315",[8134.58,8407.86,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["210485",[8237.14,8469.94,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["210486",[8269.93,8491.37,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["210193",[8095.47,8458.07,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["210194",[8072.44,8461.56,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["210195",[8073.96,8471.69,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["266477",[8513.31,7673.27,3.71933e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["266530",[8560.5,7712.69,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["264762",[8333.41,7728.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256860",[8019.48,7769.63,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256607",[7977.48,7808.59,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256606",[7977.31,7820.99,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256763",[7940,7783.43,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256084",[8022.06,7901.74,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256325",[8041.35,7862.82,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["263753",[8069.39,7853.47,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["263752",[8078.87,7842.67,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256413",[7892.51,7832.75,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256414",[7848.2,7820.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["255985",[7823.19,7871.48,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256332",[7810.42,7812.96,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256493",[7779.26,7741.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["408152",[7292.97,8038.21,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["408151",[7274.01,8044.46,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["203923",[7361.59,8017.8,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["203921",[7385.27,8027.35,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["203922",[7386,8038.53,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["203702",[7381,8063.5,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["203601",[7376.93,8160.63,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["204490",[7427.98,8213.95,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["204491",[7461.81,8186.02,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["215701",[8252.16,8085.08,9.05991e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["214576",[8228.88,8196.04,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["214635",[8239.31,8225.47,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["211478",[8620.93,8452.32,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["213043",[8723.54,8548.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["201737",[7753.94,8444.26,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["201738",[7781.28,8452.89,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["210662",[8373.97,8437.88,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["186684",[7657.74,8880.93,-5.91278e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["187685",[8100.58,9602.51,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["187686",[8102.58,9602.85,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["184776",[7613.06,9171.15,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["185001",[7606.65,9136.37,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["184681",[7675.37,9234.94,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["184640",[7660.49,9236.92,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["184642",[7676.52,9247.5,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["184641",[7705.53,9240.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["184643",[7731.68,9222.25,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["185168",[7754.76,9230.77,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["182041",[7664.53,9288.28,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["182042",[7680.26,9280.37,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["182010",[7727.96,9277.33,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["182586",[7775.02,9298.56,3.14713e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["182420",[7745.42,9346.67,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["181948",[7641.46,9313.12,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["180172",[7649.56,9504.84,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["180140",[7657.73,9549.77,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["180171",[7588.33,9490.16,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["181377",[7594.89,9477.34,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["184775",[7598.16,9203.02,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["181947",[7594.71,9297.32,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["179568",[7409.58,9304.31,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["179512",[7410.92,9325.92,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["178708",[7127.92,9513.97,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["181103",[7993.14,9589.99,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["180783",[7968.32,9629.55,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["120927",[7792.14,9734.67,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["376530",[8415.55,9707.59,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["405901",[8422.63,9695.46,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["120581",[7806.28,9836.41,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["119948",[7922.26,10041.2,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["119949",[7920,10041.1,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["119540",[7620.37,9998.65,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["119539",[7610.38,10017,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["119541",[7621.68,10034.3,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["119454",[7634.7,10051.6,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["118686",[7723.67,10193.1,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["118788",[7760.03,10153.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["375712",[7842.82,10018.5,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["119905",[7961.26,10071.1,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["118971",[8046.2,10168.3,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["121636",[8235.28,10202.4,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["121619",[8262.8,10223.4,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["50717",[1516.67,8483.23,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["50919",[1526.31,8617.49,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["344108",[4542.89,1255.07,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["344878",[4846.46,1241.89,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["343287",[4546.82,1586.36,9.15527e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["343380",[4638.8,1603.05,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["343860",[4835.79,1375.82,-4.95911e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["64426",[3749.79,2078.11,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["37696",[6160.39,1250.7,-3.43323e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["37423",[6049.18,1233.69,4.19617e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["37389",[6057.25,1239.84,-9.53674e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["65711",[6898.67,1798.87,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["65660",[6895.34,1860.63,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["14572",[6236.1,2928.41,-1.33514e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["14527",[6239.14,2953.97,9.15527e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12058",[5766.52,3216.77,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["18849",[6237.97,1845.42,3.05176e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["18830",[6141.25,1826.69,6.86646e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["18278",[6237.24,2193.51,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["17137",[5948.39,2238.79,-8.01086e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["16965",[5986.35,2416.71,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["17005",[6059.4,2422.39,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["17006",[6058.72,2442.58,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["17046",[6063.02,2374.16,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["17047",[6083.21,2373.31,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["29623",[8884.42,859.616,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["30411",[8802.02,680.789,-2.67029e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["57716",[8906.8,429.247,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["34321",[9420.59,720.728,1.14441e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["28270",[9048.38,987.783,-8.7738e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["27138",[8987.57,1157.53,-8.7738e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["29807",[8861.16,704.49,-9.53674e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["98211",[9222.31,1785.49,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["369804",[9454.95,1723.03,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["370270",[9498.06,1607.75,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["528750",[9595.94,1425.71,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["75667",[9642.81,1294.35,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["528707",[9480.44,1406.85,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["98698",[9369.61,1443.03,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["98699",[9364.3,1419.85,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69732",[9372.2,1253.51,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["75510",[9435.95,1295.77,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["371422",[9739.29,1406.24,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["370977",[9659.03,1481.38,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["371209",[9781.45,1469.68,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["370387",[9693.48,1661.02,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["370029",[9611.27,1690.14,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["370030",[9563.32,1705.65,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["369836",[9528,1711.35,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68559",[7970.23,1401.47,9.91821e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68253",[7872.85,1496.86,-3.05176e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["2071",[3644.57,4812.28,-9.34601e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["46799",[5847.24,4828.74,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["302692",[6278.99,4805.92,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["45381",[5375.14,4904.79,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["330230",[6288.16,4322.37,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12924",[6243.83,3239.28,-7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12973",[6290.88,3317.47,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12945",[6306.42,3319.98,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12637",[6319.49,3346.43,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12776",[6459.02,3415.94,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["49635",[6587.62,3773.5,1.14441e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["49572",[6677.97,3885.38,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["49573",[6717.54,3889.7,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["49461",[6722.5,3986.67,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["43899",[6333.23,3635.33,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["43771",[6109.23,3758.84,-2.67029e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["13077",[6403.25,3272.98,-1.14441e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["368323",[9818.18,3087.23,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["368534",[9918.52,3101.54,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["85823",[8712.88,3494.91,-8.39233e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["90765",[9360.83,2902.98,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["87714",[9089.27,3223.09,9.15527e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["99219",[9447.92,3236.5,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["99286",[9424.59,3216.34,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["84774",[9187.96,3599.34,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["84773",[9199.73,3600.43,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["86930",[9122.35,3548.08,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["84486",[9156.07,3665.97,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["83905",[9016.37,3679.09,-4.57764e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["244436",[4724.38,6254.52,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["244255",[4691.55,6358.96,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["242115",[4568.94,6651.11,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["242023",[4472.52,6697.83,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["241875",[4462.89,6669.59,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["245034",[5669.15,7049.97,6.38962e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["236769",[5687.71,7075.79,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["236032",[5641.79,7238.05,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["235139",[5552.45,7350.21,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["235100",[5524.23,7389.91,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["471171",[8368.02,6146.18,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["269286",[8416.48,7367.65,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["268802",[8352.93,7378.47,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["268601",[8355.18,7403.1,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279111",[8182.56,6769.32,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279110",[8215.77,6767.18,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279112",[8223.33,6739.78,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279823",[8358.57,6700.05,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279824",[8368.28,6697.95,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279879",[8345.65,6664.04,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279828",[8264.14,6641.23,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279629",[8225.07,6649.4,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279631",[8196.03,6676.78,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279627",[8171.58,6657.29,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279628",[8181.24,6657.28,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279233",[8321.24,6822.96,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["278168",[8223.36,6866.8,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["278166",[8176.97,6874.27,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["278959",[8207.43,6828.93,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279232",[8368.12,6814.48,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["275372",[7993.77,6827.68,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["274927",[8016.49,6887.72,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["387664",[3163,8097.76,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["155873",[4512.14,8997.67,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["155897",[4506.58,8985.14,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["63409",[4319.76,8961.5,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["410662",[4343.28,7717.47,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["400537",[4229.58,8097.42,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["399480",[4194.95,8288.11,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["399479",[4185.35,8286.06,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["138518",[4011.04,8450.21,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["137947",[3912.68,8590.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["137385",[3865.96,8619.36,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["137283",[3878.17,8672.61,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["137204",[4018.41,8777.89,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["134356",[3939.07,8878.97,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["134225",[3921.37,8887.51,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["134358",[3941.74,8859.18,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["137077",[3960.16,8812.38,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["137496",[3981.37,8652.07,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["397234",[4181.02,8679.66,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["136693",[3738.84,8780.44,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["134078",[3880.66,8952.11,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["134079",[3894.56,8942.47,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["134226",[3932.47,8935.08,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["58417",[2023.44,9512.1,7.15256e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["128842",[2496.51,9124.32,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["128641",[2498.39,9197.63,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["128564",[2438.11,9236.17,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["126445",[2239.4,9412.38,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["124788",[2155.88,9280.01,3.14713e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["53427",[1730.44,9470.88,9.63211e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["52786",[1725.17,9561.73,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["52726",[1698.12,9631.93,-9.53674e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["125945",[2517.26,9496.19,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["126040",[2649.54,9497.04,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["125896",[2604.24,9543.93,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["59023",[1986.94,9134.19,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164849",[5367.18,8648.64,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164920",[5378.61,8641.99,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164809",[5327.67,8703.6,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["357932",[9422.98,7796.86,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["358062",[9501.48,7824.51,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["357639",[9411.6,7837.73,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["218921",[9134.44,8115.38,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["355333",[9513.15,8537.95,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["355353",[9530.62,8536.71,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["355245",[9477.08,8558.39,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["209841",[8257.32,8602.11,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["208217",[8283.87,8636.21,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["207787",[8295.12,8721.84,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["208160",[8348.78,8703.51,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["208161",[8383.48,8675.68,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["208480",[8486.56,8728.78,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["208507",[8529.44,8743.42,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["208482",[8547.98,8737.7,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["209697",[8605.21,8709.35,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["212292",[9040.16,8697.24,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["194368",[9197.4,9124.37,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["193268",[9019.87,9158.26,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["193595",[8970.07,9106.5,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["190187",[9255.58,9344.42,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["189189",[9031.15,9420.6,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["188756",[9138.77,9580.91,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["194006",[9160.15,9204.42,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["193594",[9025.39,9126.18,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["193602",[9004.62,9116.74,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["189188",[9007.03,9418.1,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["124364",[9002.74,9765.38,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["124365",[9000.84,9783.32,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["522768",[4780.79,497.771,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["153041",[4491.68,9488.85,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["153918",[5093.21,9538.78,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154449",[5135.19,9562.39,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154448",[5133.34,9585.53,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154052",[5267.83,9663.65,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154332",[5287.35,9641.43,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154127",[5285.57,9609.35,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154540",[5267.51,9590.62,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154536",[5243.54,9590.57,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154447",[5170.74,9595.04,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154446",[5186.6,9557.02,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154548",[5148.34,9539.58,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["153695",[5067.99,9553.73,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116289",[5266.53,9784.58,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116437",[5258.98,9759.96,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116438",[5253.34,9733.03,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154041",[5284.41,9701.94,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154226",[5315.49,9698.95,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154228",[5338.77,9677.64,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154227",[5354.9,9674.09,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154249",[5383.85,9651.85,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154331",[5353.68,9634.93,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154238",[5339.42,9653.39,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154333",[5326.12,9629.28,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154697",[5315.24,9584.19,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154693",[5340.36,9584.8,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154694",[5328.33,9546.49,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154696",[5302.01,9544.54,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154698",[5288.22,9555.87,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154699",[5288.12,9566.28,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154653",[5266.02,9515.68,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154656",[5273.38,9486.49,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["155218",[5281.63,9474.62,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154654",[5258.12,9489.79,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["155217",[5223.95,9440.99,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154655",[5250.48,9540.28,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154244",[5374.07,9701.95,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154264",[5374.23,9688.7,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116562",[5413.48,9706.78,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154265",[5438.12,9658.06,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["157332",[5453.02,9648.65,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["157316",[5538,9699.08,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116537",[5358.52,9753.56,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116503",[5311.54,9781.77,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116211",[5340.61,9832.15,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116093",[5285.61,9861.95,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116143",[5249.54,9860.2,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116092",[5211.58,9847.86,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116109",[5265.52,9832.54,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["115546",[5264.77,9936.53,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["115547",[5252.07,9954.12,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["115570",[5313.92,10004.3,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["115582",[5317.27,10020.1,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["114736",[5273.72,10138.1,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116590",[5451.19,10222,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["115324",[5195.44,10031.1,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["115366",[5233.67,10023.5,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["114160",[4832.04,10114.9,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372436",[4304.57,10227.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["3163",[4149.31,5725.66,4.57764e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["20242",[5992.42,651.579,-1.33514e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["532918",[9611.96,4136.55,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["82186",[8706.79,4252.89,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["82187",[8704.51,4252.82,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["441954",[8663.23,6203.54,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["441955",[8661.36,6203.51,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["60640",[4272.38,9353.7,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["187685",[8100.58,9602.51,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["187686",[8102.58,9602.85,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["119948",[7922.26,10041.2,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["119949",[7920,10041.1,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["50717",[1516.67,8483.23,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["344108",[4542.89,1255.07,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["344878",[4846.46,1241.89,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["343287",[4546.82,1586.36,9.15527e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["343380",[4638.8,1603.05,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["343860",[4835.79,1375.82,-4.95911e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["64426",[3749.79,2078.11,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["37696",[6160.39,1250.7,-3.43323e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["37423",[6049.18,1233.69,4.19617e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["37389",[6057.25,1239.84,-9.53674e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["65711",[6898.67,1798.87,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["65660",[6895.34,1860.63,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["66546",[7823.77,1932.77,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["14572",[6236.1,2928.41,-1.33514e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["14527",[6239.14,2953.97,9.15527e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12058",[5766.52,3216.77,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["18849",[6237.97,1845.42,3.05176e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["18830",[6141.25,1826.69,6.86646e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["18278",[6237.24,2193.51,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["17137",[5948.39,2238.79,-8.01086e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["16965",[5986.35,2416.71,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["17005",[6059.4,2422.39,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["17006",[6058.72,2442.58,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["17046",[6063.02,2374.16,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["17047",[6083.21,2373.31,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["29623",[8884.42,859.616,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["30411",[8802.02,680.789,-2.67029e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["57716",[8906.8,429.247,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["34321",[9420.59,720.728,1.14441e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["28270",[9048.38,987.783,-8.7738e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["27138",[8987.57,1157.53,-8.7738e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["29807",[8861.16,704.49,-9.53674e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["98211",[9222.31,1785.49,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["369804",[9454.95,1723.03,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["370270",[9498.06,1607.75,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["528750",[9595.94,1425.71,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["75667",[9642.81,1294.35,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["528707",[9480.44,1406.85,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["98698",[9369.61,1443.03,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["98699",[9364.3,1419.85,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["69732",[9372.2,1253.51,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["75510",[9435.95,1295.77,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["371422",[9739.29,1406.24,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["370977",[9659.03,1481.38,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["371209",[9781.45,1469.68,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["370387",[9693.48,1661.02,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["370029",[9611.27,1690.14,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["370030",[9563.32,1705.65,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["369836",[9528,1711.35,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68559",[7970.23,1401.47,9.91821e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["68253",[7872.85,1496.86,-3.05176e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["88826",[8514.87,2972.25,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["88818",[8413.35,2963.28,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["88817",[8436.67,2960.97,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["89826",[8420.67,2881.84,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["96546",[8885.72,2452.62,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["96547",[8885.5,2410.93,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["95756",[8556.82,2477,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["10705",[4759.94,3384.47,6.86646e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["7691",[4760.47,3579.2,-6.67572e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["7821",[4827.77,3923.76,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["6282",[4593.14,3949.87,-1.33514e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["6281",[4592.49,3972.53,-4.95911e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["38242",[4707.2,4414.26,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["461509",[4218.79,4593.07,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["44751",[5004.45,5056.13,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["2071",[3644.57,4812.28,-9.34601e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["46799",[5847.24,4828.74,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["302692",[6278.99,4805.92,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["45381",[5375.14,4904.79,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["330230",[6288.16,4322.37,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12924",[6243.83,3239.28,-7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12973",[6290.88,3317.47,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12945",[6306.42,3319.98,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12637",[6319.49,3346.43,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["12776",[6459.02,3415.94,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["49635",[6587.62,3773.5,1.14441e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["49572",[6677.97,3885.38,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["49573",[6717.54,3889.7,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["49461",[6722.5,3986.67,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["43899",[6333.23,3635.33,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["43771",[6109.23,3758.84,-2.67029e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["13077",[6403.25,3272.98,-1.14441e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["334087",[7534.54,4264.01,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["334198",[7598.35,4249.69,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["334162",[7617.36,4294.81,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["324413",[6879.75,4537.36,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["44999",[5120.96,4913.12,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["45242",[5140.01,4950.51,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["44953",[5086.77,4979.73,3.8147e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["79100",[5333.44,5583.57,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["79109",[5381.15,5581,-1.43051e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["79482",[5317.65,5351.32,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["46073",[5480.2,5123,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["317863",[6839.9,5074.35,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["316460",[6993.94,5179.99,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["308967",[7004.56,5373.89,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["308930",[6986.31,5403.61,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["308533",[6990.06,5456.19,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["308534",[6986.49,5463.21,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["303776",[6521.02,4753.25,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["303917",[6608.91,4703.6,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["318980",[6816.77,4976.25,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["317966",[6832.49,5031.7,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["318069",[6852.16,5010.06,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["318070",[6866.53,4999.06,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["300901",[6439.53,5179.53,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["307611",[6822.15,5580.61,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["368323",[9818.18,3087.23,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["368534",[9918.52,3101.54,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["85823",[8712.88,3494.91,-8.39233e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["90765",[9360.83,2902.98,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["87714",[9089.27,3223.09,9.15527e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["99219",[9447.92,3236.5,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["99286",[9424.59,3216.34,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["84774",[9187.96,3599.34,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["84773",[9199.73,3600.43,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["86930",[9122.35,3548.08,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["84486",[9156.07,3665.97,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["83905",[9016.37,3679.09,-4.57764e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["485298",[9003.43,5164.02,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["487140",[9107.52,5052.14,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["487102",[9083.58,5073.07,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["487103",[9074.25,5086.76,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["486034",[9056.11,5110,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["486035",[9072.65,5119.99,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["485423",[8986.51,5116.74,-8.7738e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["486654",[9012.76,5072.04,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["487270",[9062.31,5009.98,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["487346",[9132.65,4999.67,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["487576",[9096.63,4960.92,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["529879",[9189.14,4814.11,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["528221",[9490.52,4655.4,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["485766",[9371.21,5259.79,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["480589",[9130.94,5429.03,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["480546",[9081.75,5466.23,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["480455",[9062.46,5520.12,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["527638",[9548.64,5374.46,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["527666",[9687.7,5390.36,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["315600",[8964.83,5395.92,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["485521",[9172.11,5303.55,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["287835",[4926.72,5696.46,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["288441",[4914.66,5639.22,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["286633",[4921.49,5947.01,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["286634",[4883.86,5960.34,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["285904",[4859.66,5992.28,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["286723",[4929.08,5876.5,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["286468",[4849.34,5937.88,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["285952",[4921.56,5993.94,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["244436",[4724.38,6254.52,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["244255",[4691.55,6358.96,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["242115",[4568.94,6651.11,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["242023",[4472.52,6697.83,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["241875",[4462.89,6669.59,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["250",[3601.92,6731.1,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["150119",[3706.29,6771.42,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["149161",[3894.3,6912.03,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["150993",[4071.01,6816.45,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["144498",[3559.44,7481.17,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["222506",[5048.91,7663.4,-4.76837e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["222434",[5080.99,7675.38,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["222505",[5116.74,7669.29,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["411466",[5118.82,7889.95,-2.28882e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166941",[5391.01,8194.68,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166802",[5356.67,8176.45,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166803",[5318.57,8181.39,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166746",[5370.44,8270.96,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166333",[5364.23,8284.72,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166262",[5374.95,8382.78,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166151",[5348.53,8367.58,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166000",[5232.64,8382.12,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["165321",[5213.35,8387.97,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["165897",[5179.58,8357.53,7.62939e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166118",[5224.13,8330.7,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166105",[5197.33,8284.89,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["165280",[5146.62,8440.1,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["165229",[5134.06,8466.39,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["165313",[5183.54,8441.59,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["398847",[5060.13,8492.49,-5.53131e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164994",[4882.23,8564.16,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164982",[4860.38,8559.17,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["165018",[4851.56,8541.1,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164983",[4839.99,8582.99,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164481",[4810.18,8668.67,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164310",[4820.95,8730.34,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164483",[4826.43,8707.75,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164482",[4838.15,8700.12,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164309",[4865.48,8729.1,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164308",[4853.93,8742.56,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164289",[4835.58,8750.7,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164270",[4827.61,8772.18,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["224731",[4655.84,7460.15,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["222656",[4878.1,7596.16,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["219503",[4623.58,7871.96,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["410437",[4728.5,7887.87,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["223585",[5357.05,7643.87,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["223697",[5445.93,7669.29,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["232765",[5469.58,7673.81,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["232809",[5562.62,7720.39,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["224068",[5449.35,7565.25,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["224266",[5440.86,7540.92,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["224292",[5425.7,7534.74,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["224069",[5415.61,7575.03,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["233116",[5451.23,7515.27,6.67572e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["234772",[5470.73,7498.81,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["401099",[4612.1,8092.86,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["400325",[4628.73,8174.2,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["400323",[4583.67,8173.15,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["401030",[4581.52,8154.25,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["400955",[4525.41,8152.4,-6.67572e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["165420",[4589.27,8375.64,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164055",[4561.05,8391.47,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["163537",[4590.06,8583.42,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["163084",[4649.14,8618.4,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["167079",[4833.03,8088.96,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166982",[4868.5,8121.84,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166942",[5377.42,8210.35,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["166801",[5343.66,8199.01,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["249979",[5924.29,6556.85,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["246374",[5989.73,6741.81,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["246694",[5942.38,6719.76,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["248683",[6164.42,6747.43,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["456082",[6449.75,6038.97,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["456102",[6467.15,6044.86,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["455170",[6397.88,6107.84,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["455997",[6443.88,6101.69,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["252731",[6529.92,6297.64,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["245034",[5669.15,7049.97,6.38962e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["236769",[5687.71,7075.79,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["236032",[5641.79,7238.05,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["235139",[5552.45,7350.21,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["235100",[5524.23,7389.91,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["478907",[8867.21,5646.2,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["472225",[8544.97,6023.71,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["439811",[9115.04,6793.15,-6.29425e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["526258",[9480.04,6807.67,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["526458",[9490.74,6782.36,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["445036",[9327.72,6394.24,2.28882e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["315133",[9348,5659.18,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["479879",[9217.21,5688.32,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["365796",[9674.64,5641.16,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["365416",[9522.69,5785.05,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["365121",[9531.99,5938.93,-3.05176e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["479247",[8876.84,5610.21,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["479248",[8852.86,5619.81,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["475902",[8853.84,5886.51,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["474428",[8991,6012.4,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["474613",[8991.1,6012.4,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["474612",[8990.95,6012.35,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["471787",[8536.68,6126.76,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["437758",[8906.9,6857.5,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["438779",[8943.38,6825.51,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["438778",[8935.14,6845.51,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["471171",[8368.02,6146.18,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["269286",[8416.48,7367.65,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["268802",[8352.93,7378.47,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["268601",[8355.18,7403.1,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279111",[8182.56,6769.32,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279110",[8215.77,6767.18,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279112",[8223.33,6739.78,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279823",[8358.57,6700.05,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279824",[8368.28,6697.95,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279879",[8345.65,6664.04,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279828",[8264.14,6641.23,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279629",[8225.07,6649.4,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279631",[8196.03,6676.78,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279627",[8171.58,6657.29,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279628",[8181.24,6657.28,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279233",[8321.24,6822.96,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["278168",[8223.36,6866.8,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["278166",[8176.97,6874.27,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["278959",[8207.43,6828.93,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["279232",[8368.12,6814.48,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["275372",[7993.77,6827.68,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["274927",[8016.49,6887.72,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["387664",[3163,8097.76,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["130639",[3355.68,9593.54,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["130887",[3458.94,9535.55,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["132089",[3507.91,9578.92,2.09808e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["132000",[3656.31,9667.51,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372087",[3700.29,9712.93,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["132060",[3713.26,9601.67,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378502",[3770.62,9528.88,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378503",[3792.96,9501.03,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379782",[3798.28,9486.31,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379998",[3827.03,9464.79,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379955",[3832.63,9451.84,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379927",[3847.36,9440.09,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["380044",[3843.32,9422.26,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["380122",[3897.79,9430.01,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379368",[3894.42,9487.16,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379354",[3908.01,9506.05,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379350",[3848.35,9529.48,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378501",[3806.78,9534.2,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378347",[3811.01,9553.75,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379095",[3815.3,9577.53,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378759",[3821.88,9607.42,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378760",[3818,9638.71,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378556",[3820.24,9685.75,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378128",[3805.51,9698.12,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378191",[3793.95,9667.98,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378129",[3787.51,9655.15,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372142",[3761.99,9728.09,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372148",[3772.41,9743.84,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372149",[3768.41,9761.25,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372080",[3784.56,9785.94,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["371971",[3767.36,9841.15,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["112264",[3670.6,9812.27,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["112267",[3664.81,9800.73,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["111908",[3657.43,9826.22,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["111903",[3655.55,9835.59,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["111828",[3651.04,9885.37,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["111561",[3627.6,9890.46,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["111552",[3609.33,9887.02,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["111553",[3589.49,9887.32,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["110014",[3479.27,9825.97,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["110244",[3452.21,9804.81,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["110013",[3448.5,9823.43,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["110049",[3438.17,9835.35,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["110048",[3435.15,9849.01,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["111551",[3604.4,9912.94,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["111562",[3580.75,9904.03,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["112164",[3511.28,9727.24,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["112163",[3497.32,9756.21,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["110196",[3361.08,9761.74,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["108724",[3443.55,10014.7,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["108738",[3432.79,10022.7,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["108362",[3370.01,10075,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["108232",[3397.16,10112.3,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["108233",[3363.98,10118.1,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["108577",[3238.7,9938.82,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["108579",[3239.98,9965.25,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["108702",[3296.91,9932.64,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["61103",[4360.92,9267.29,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["153140",[4197.33,9440.55,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["153141",[4212.21,9471.96,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["153211",[4223.1,9470.87,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379651",[4106.43,9508.41,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["378610",[3974.78,9674.98,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379247",[3896.93,9592.93,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379248",[3900.82,9552.3,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["379094",[3867.81,9584.24,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372147",[3749.59,9746.43,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372143",[3737.28,9734.79,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372085",[3699.42,9753.09,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372086",[3688.46,9753.29,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["112212",[3635.73,9720.12,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["110745",[3688.33,10070.5,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["110384",[3536.42,10139.1,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["106572",[3531.4,10166.1,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["106548",[3515.36,10166.7,-6.10352e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["106584",[3645.33,10185.4,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["110700",[3732.39,10122.9,1.90735e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["107008",[3870.19,10197.5,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["107063",[4006.06,10229.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["371631",[4137.25,10208.5,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["380048",[3831.66,9402.42,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["380084",[3817.02,9405.72,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["380945",[3900.21,9261.09,-2.86102e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["155873",[4512.14,8997.67,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["155897",[4506.58,8985.14,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["63409",[4319.76,8961.5,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["410662",[4343.28,7717.47,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["400537",[4229.58,8097.42,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["399480",[4194.95,8288.11,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["399479",[4185.35,8286.06,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["138518",[4011.04,8450.21,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["137947",[3912.68,8590.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["137385",[3865.96,8619.36,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["137283",[3878.17,8672.61,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["137204",[4018.41,8777.89,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["134356",[3939.07,8878.97,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["134225",[3921.37,8887.51,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["134358",[3941.74,8859.18,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["137077",[3960.16,8812.38,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["137496",[3981.37,8652.07,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["397234",[4181.02,8679.66,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["136693",[3738.84,8780.44,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["134078",[3880.66,8952.11,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["134079",[3894.56,8942.47,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["134226",[3932.47,8935.08,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["58417",[2023.44,9512.1,7.15256e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["128842",[2496.51,9124.32,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["128641",[2498.39,9197.63,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["128564",[2438.11,9236.17,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["126445",[2239.4,9412.38,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["124788",[2155.88,9280.01,3.14713e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["53427",[1730.44,9470.88,9.63211e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["52786",[1725.17,9561.73,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["52726",[1698.12,9631.93,-9.53674e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["125945",[2517.26,9496.19,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["126040",[2649.54,9497.04,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["125896",[2604.24,9543.93,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["59023",[1986.94,9134.19,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["202771",[7344.18,8310.11,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["202772",[7369.82,8287.06,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["202773",[7409.66,8283.29,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["200706",[7440.1,8553.19,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["197138",[7392.43,8636.63,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["198613",[7414.41,8759.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["196881",[7399.54,8757.42,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["196880",[7322.43,8751.67,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["197804",[7393.6,8527.93,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["198714",[7655.76,8808.29,7.05719e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["198953",[7731.23,8735.3,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["199558",[7749.34,8775.71,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["199557",[7791.91,8778.92,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["207438",[8091.31,8786.36,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["207435",[8111.76,8792.57,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["207606",[8256.57,8809.19,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["191806",[8248.88,9024.33,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["191493",[8185.74,9027.28,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["191491",[8151.63,9034.11,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["191299",[8083.76,9030.3,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["185459",[8060.4,9181.63,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["257621",[7868.09,7623.23,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["257634",[7856.56,7629.96,-7.82013e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["265610",[8072.24,7693.42,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["265637",[8085.65,7676.97,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["264340",[8068.37,7731.06,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["257752",[8011.41,7717.47,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256762",[7953.99,7734.47,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["257719",[7955.23,7715.08,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256557",[7877.89,7731.29,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["255750",[7797.2,7892.74,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["206581",[7713.03,7969.96,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["255749",[7745.29,7935.07,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["254988",[7716.43,7929.53,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["206371",[7505.85,7968.26,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["254630",[7493.24,7930.22,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["254799",[7454.29,7862.19,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["254800",[7450.57,7849.1,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["255368",[7448.23,7771.82,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["254801",[7444.8,7885.06,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["206309",[7470.37,7965.95,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["254751",[7523.89,7897.11,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["254840",[7534.07,7887.26,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["214021",[8081.91,8285.98,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["213937",[8095.33,8379.54,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["210315",[8134.58,8407.86,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["210485",[8237.14,8469.94,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["210486",[8269.93,8491.37,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["210193",[8095.47,8458.07,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["210194",[8072.44,8461.56,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["210195",[8073.96,8471.69,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["266477",[8513.31,7673.27,3.71933e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["266530",[8560.5,7712.69,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["264762",[8333.41,7728.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256860",[8019.48,7769.63,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256607",[7977.48,7808.59,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256606",[7977.31,7820.99,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256763",[7940,7783.43,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256084",[8022.06,7901.74,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256325",[8041.35,7862.82,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["263753",[8069.39,7853.47,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["263752",[8078.87,7842.67,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256413",[7892.51,7832.75,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256414",[7848.2,7820.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["255985",[7823.19,7871.48,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256332",[7810.42,7812.96,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["256493",[7779.26,7741.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["408152",[7292.97,8038.21,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["408151",[7274.01,8044.46,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["203923",[7361.59,8017.8,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["203921",[7385.27,8027.35,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["203922",[7386,8038.53,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["203702",[7381,8063.5,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["203601",[7376.93,8160.63,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["204490",[7427.98,8213.95,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["204491",[7461.81,8186.02,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["215701",[8252.16,8085.08,9.05991e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["214576",[8228.88,8196.04,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["214635",[8239.31,8225.47,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["211478",[8620.93,8452.32,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["213043",[8723.54,8548.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["201737",[7753.94,8444.26,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["201738",[7781.28,8452.89,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["210662",[8373.97,8437.88,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["186684",[7657.74,8880.93,-5.91278e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164849",[5367.18,8648.64,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164920",[5378.61,8641.99,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["164809",[5327.67,8703.6,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["173089",[6370.64,8548.55,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172922",[6371.16,8564.67,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172930",[6372.36,8601.65,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["171772",[6362.57,8618.49,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["171613",[6332.06,8619.09,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172865",[6331.15,8599.39,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172863",[6303.63,8591.67,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172885",[6309.22,8580.46,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["171675",[6301.23,8607.25,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172864",[6333.71,8587.32,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["171688",[6291.43,8648.58,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["171025",[6302.98,8731.86,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["173592",[6445.98,8577.81,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["173609",[6432.02,8583.04,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["171733",[6425.16,8617.13,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172369",[6451.12,8624.35,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172370",[6468.31,8629.51,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172354",[6472.7,8648.74,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172344",[6536.89,8670.95,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172343",[6515.56,8669.73,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172244",[6470.14,8673.89,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["172353",[6447.93,8657.79,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["173608",[6508.43,8584.63,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["184776",[7613.06,9171.15,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["185001",[7606.65,9136.37,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["184681",[7675.37,9234.94,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["184640",[7660.49,9236.92,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["184642",[7676.52,9247.5,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["184641",[7705.53,9240.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["184643",[7731.68,9222.25,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["185168",[7754.76,9230.77,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["182041",[7664.53,9288.28,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["182042",[7680.26,9280.37,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["182010",[7727.96,9277.33,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["182586",[7775.02,9298.56,3.14713e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["182420",[7745.42,9346.67,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["181948",[7641.46,9313.12,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["180172",[7649.56,9504.84,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["180140",[7657.73,9549.77,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["180171",[7588.33,9490.16,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["181377",[7594.89,9477.34,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["184775",[7598.16,9203.02,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["181947",[7594.71,9297.32,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["179568",[7409.58,9304.31,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["179512",[7410.92,9325.92,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["178708",[7127.92,9513.97,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["181103",[7993.14,9589.99,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["180783",[7968.32,9629.55,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["120927",[7792.14,9734.67,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["376530",[8415.55,9707.59,9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["405901",[8422.63,9695.46,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["120581",[7806.28,9836.41,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["119540",[7620.37,9998.65,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["119539",[7610.38,10017,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["119541",[7621.68,10034.3,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["119454",[7634.7,10051.6,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["118686",[7723.67,10193.1,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["118788",[7760.03,10153.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["375712",[7842.82,10018.5,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["119905",[7961.26,10071.1,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["118971",[8046.2,10168.3,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["121636",[8235.28,10202.4,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["121619",[8262.8,10223.4,1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["357932",[9422.98,7796.86,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["358062",[9501.48,7824.51,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["357639",[9411.6,7837.73,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["218921",[9134.44,8115.38,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["355333",[9513.15,8537.95,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["355353",[9530.62,8536.71,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["355245",[9477.08,8558.39,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["209841",[8257.32,8602.11,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["208217",[8283.87,8636.21,-1.90735e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["207787",[8295.12,8721.84,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["208160",[8348.78,8703.51,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["208161",[8383.48,8675.68,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["208480",[8486.56,8728.78,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["208507",[8529.44,8743.42,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["208482",[8547.98,8737.7,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["209697",[8605.21,8709.35,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["212292",[9040.16,8697.24,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["194368",[9197.4,9124.37,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["193268",[9019.87,9158.26,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["193595",[8970.07,9106.5,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["190187",[9255.58,9344.42,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["189189",[9031.15,9420.6,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["188756",[9138.77,9580.91,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["194006",[9160.15,9204.42,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["193594",[9025.39,9126.18,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["193602",[9004.62,9116.74,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["189188",[9007.03,9418.1,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["124364",[9002.74,9765.38,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["124365",[9000.84,9783.32,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["522768",[4780.79,497.771,-3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["153041",[4491.68,9488.85,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["153918",[5093.21,9538.78,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154449",[5135.19,9562.39,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154448",[5133.34,9585.53,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154052",[5267.83,9663.65,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154332",[5287.35,9641.43,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154127",[5285.57,9609.35,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154540",[5267.51,9590.62,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154536",[5243.54,9590.57,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154447",[5170.74,9595.04,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154446",[5186.6,9557.02,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154548",[5148.34,9539.58,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["153695",[5067.99,9553.73,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116289",[5266.53,9784.58,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116437",[5258.98,9759.96,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116438",[5253.34,9733.03,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154041",[5284.41,9701.94,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154226",[5315.49,9698.95,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154228",[5338.77,9677.64,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154227",[5354.9,9674.09,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154249",[5383.85,9651.85,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154331",[5353.68,9634.93,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154238",[5339.42,9653.39,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154333",[5326.12,9629.28,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154697",[5315.24,9584.19,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154693",[5340.36,9584.8,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154694",[5328.33,9546.49,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154696",[5302.01,9544.54,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154698",[5288.22,9555.87,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154699",[5288.12,9566.28,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154653",[5266.02,9515.68,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154656",[5273.38,9486.49,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["155218",[5281.63,9474.62,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154654",[5258.12,9489.79,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["155217",[5223.95,9440.99,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154655",[5250.48,9540.28,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154244",[5374.07,9701.95,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154264",[5374.23,9688.7,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116562",[5413.48,9706.78,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["154265",[5438.12,9658.06,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["157332",[5453.02,9648.65,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["157316",[5538,9699.08,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116537",[5358.52,9753.56,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116503",[5311.54,9781.77,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116211",[5340.61,9832.15,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116093",[5285.61,9861.95,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116143",[5249.54,9860.2,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116092",[5211.58,9847.86,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116109",[5265.52,9832.54,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["115546",[5264.77,9936.53,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["115547",[5252.07,9954.12,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["115570",[5313.92,10004.3,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["115582",[5317.27,10020.1,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["114736",[5273.72,10138.1,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["116590",[5451.19,10222,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["115324",[5195.44,10031.1,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["115366",[5233.67,10023.5,-4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["114160",[4832.04,10114.9,4.76837e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["372436",[4304.57,10227.9,-9.53674e-007]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["3163",[4149.31,5725.66,4.57764e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["20242",[5992.42,651.579,-1.33514e-005]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["50919",[1526.31,8617.49,3.8147e-006]]];
+civ Cluster small number erased: _nodes set [count _nodes, ["532918",[9611.96,4136.55,-3.8147e-006]]];
+mil sector null: _sectorData = [ALIVE_gridData, "<null>_<null>"] call ALIVE_fnc_hashGet;
+mil sector null: [ALIVE_gridData, "<null>_<null>", _sectorData] call ALIVE_fnc_hashSet;
+civ sector null: _sectorData = [ALIVE_gridData, "<null>_<null>"] call ALIVE_fnc_hashGet;
+civ sector null: [ALIVE_gridData, "<null>_<null>", _sectorData] call ALIVE_fnc_hashSet;
